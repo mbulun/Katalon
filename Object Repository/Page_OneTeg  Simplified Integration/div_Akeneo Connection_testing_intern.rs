@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Akeneo Connection_testing_intern</name>
+   <tag></tag>
+   <elementGuidId>450509a9-3603-4904-87ec-5b1601564c01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='name-0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd1f2c6a-8a5d-4462-9ce1-2b83cfec3efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-0</value>
+      <webElementGuid>15140229-0d0e-4e98-abe5-0ad92f70d626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akeneo Connection_testing_intern</value>
+      <webElementGuid>1faa4288-8060-4c6a-bb22-e5faa7aa2a2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-0&quot;)</value>
+      <webElementGuid>68b31299-f0d3-47e7-9f4a-d8c0bded20b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='name-0']</value>
+      <webElementGuid>7e66b63c-1b01-452a-b3b6-90a7dcf33078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show-connections']/div/div/div/div[3]/table/tbody/tr/td/div/div</value>
+      <webElementGuid>a16b8b56-5781-478d-b1bf-193af04bc1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::div[7]</value>
+      <webElementGuid>f1e1525c-222c-4f55-acf8-af84920c95be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connector'])[1]/following::div[8]</value>
+      <webElementGuid>fe985091-f7a5-4941-b1a5-749b0537b8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akeneo Connection'])[1]/preceding::div[10]</value>
+      <webElementGuid>bc22c263-eb89-45f2-8ec2-cb4aa480ef7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div</value>
+      <webElementGuid>843315c0-28a6-4fdc-beb9-a75c984aeaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'name-0' and (text() = 'Akeneo Connection_testing_intern' or . = 'Akeneo Connection_testing_intern')]</value>
+      <webElementGuid>c593a0fb-8e71-478f-92a7-37ae01d17e3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

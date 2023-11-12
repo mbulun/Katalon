@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Apikey</name>
+   <tag></tag>
+   <elementGuidId>8f6fab71-5800-4873-8b60-2b9dde3227bc</elementGuidId>
+   <imagePath>../../Pictures/Katalon Fail Screenshots/Bria Apikey.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../Pictures/Katalon Fail Screenshots/Bria Apikey.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-select-dropdown.is-multiple > div.el-scrollbar > div.el-select-dropdown__wrap.el-scrollbar__wrap.el-scrollbar__wrap--hidden-default > ul.el-scrollbar__view.el-select-dropdown__list > li.el-select-dropdown__item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-popper-7946']/div/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e92c5559-0a8f-4062-9a3b-db05714f9d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-select-dropdown__item</value>
+      <webElementGuid>6804ea8f-1e4d-463d-afc9-ad1fef2ac7ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apikey</value>
+      <webElementGuid>56521fc6-fefd-4ff4-9b91-126a9b2e8db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-popper-7946&quot;)/div[@class=&quot;el-select-dropdown is-multiple&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item&quot;]</value>
+      <webElementGuid>8dc67d48-7bbf-4719-96ea-60e0f6250c85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-popper-7946']/div/div/div/ul/li</value>
+      <webElementGuid>59778721-a197-444d-a349-63542aff6120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/ul/li</value>
+      <webElementGuid>f3e5b31b-f1d5-4e18-afa4-08c3cb533a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Apikey' or . = 'Apikey')]</value>
+      <webElementGuid>889dc83f-dda8-40ab-891a-143b5736760b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

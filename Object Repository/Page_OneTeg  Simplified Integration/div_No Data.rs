@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No Data</name>
+   <tag></tag>
+   <elementGuidId>4b3d7ed3-012b-4833-8309-f256775f8a10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-table__empty-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='users-card']/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e16f082-2e42-4a69-92a0-27b345d0b5fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-table__empty-block</value>
+      <webElementGuid>87826ed7-301b-4124-bb2a-9f4dc97a0ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Data</value>
+      <webElementGuid>9b1bd238-6655-4ca7-b439-82220cc59033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;users-card&quot;)/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--enable-row-hover el-table&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-none&quot;]/div[@class=&quot;el-table__empty-block&quot;]</value>
+      <webElementGuid>f3512204-943b-416f-a907-635dded881af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='users-card']/div/div/div[3]/div</value>
+      <webElementGuid>107dd197-b39f-409f-ab6e-e462b341e06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::div[6]</value>
+      <webElementGuid>4446d09e-417a-49e1-9369-58da3a4498d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created At'])[1]/following::div[7]</value>
+      <webElementGuid>5a5dbb75-3f6d-4192-a5ba-4d35a7d391c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total 0'])[1]/preceding::div[2]</value>
+      <webElementGuid>b57f9426-fb55-414b-a93f-3ff4bd9af2dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>9e314a82-abb1-44d4-9773-b41019d55e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'No Data' or . = 'No Data')]</value>
+      <webElementGuid>85f1dbd2-c626-4b19-93b1-249a6a4d33ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

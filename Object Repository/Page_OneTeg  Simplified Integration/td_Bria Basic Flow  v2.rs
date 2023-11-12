@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Bria Basic Flow  v2</name>
+   <tag></tag>
+   <elementGuidId>12d39938-6663-4b5e-971d-93511d6a0406</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.el-table_9_column_41.el-table__cell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flows-card']/div/div/div[3]/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>49209565-1882-43e8-adf5-8dbd36734f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-table_9_column_41   el-table__cell</value>
+      <webElementGuid>d9b4f5c8-3c6e-4ac5-968a-f0e0c1e61662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>e34acfbe-4d28-4e31-86c8-ac3f3c71573a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>848c8d9d-2f2c-4d27-a9b3-732cd8327095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bria Basic Flow  v2</value>
+      <webElementGuid>fd3a08f2-60e4-4188-8a1c-f8eee15c9d62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flows-card&quot;)/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--enable-row-hover el-table--enable-row-transition el-table&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-none&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_9_column_41   el-table__cell&quot;]</value>
+      <webElementGuid>545c2752-b06e-4e74-b0b1-0fbf16f99702</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flows-card']/div/div/div[3]/table/tbody/tr/td</value>
+      <webElementGuid>3e009112-68b8-461c-82ee-de688ed33654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::td[1]</value>
+      <webElementGuid>d48b107a-a84f-40f2-9119-98b435628fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled'])[1]/following::td[1]</value>
+      <webElementGuid>33b55a38-7808-4c97-a46a-717d3a158a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>de440585-daec-46d5-891d-6864298cb938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Bria Basic Flow  v2' or . = 'Bria Basic Flow  v2')]</value>
+      <webElementGuid>8280ad3c-0f34-45c0-8b75-2935bb3b9605</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

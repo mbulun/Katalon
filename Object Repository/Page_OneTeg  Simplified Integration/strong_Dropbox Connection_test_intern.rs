@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Dropbox Connection_test_intern</name>
+   <tag></tag>
+   <elementGuidId>4fa3c3c9-5097-4447-858e-6b6a3bd49260</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong[@id='name-label0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>26c94cf0-ba9d-4b87-bc6f-88af1c50955b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label0</value>
+      <webElementGuid>0833678f-09a0-4d48-9087-b7f82878fc07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dropbox Connection_test_intern</value>
+      <webElementGuid>456b6a86-c3cb-475c-97a6-e4431cabc6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label0&quot;)</value>
+      <webElementGuid>4d47ef6a-fd1e-4698-9b3c-b312ef5b7fe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//strong[@id='name-label0']</value>
+      <webElementGuid>e860d40d-68a4-4afa-aa37-247bd5984e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-0']/strong</value>
+      <webElementGuid>4d3eae40-a221-4664-aa9c-4865096b4f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::strong[1]</value>
+      <webElementGuid>4ff7c6b6-a176-48a0-a634-8532fd9e1e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connector'])[1]/following::strong[1]</value>
+      <webElementGuid>15bea014-b12b-4a44-bf70-e07e0bff80ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aws-oneteg-test-assets connection_test_intern'])[1]/preceding::strong[1]</value>
+      <webElementGuid>0d270f0a-0b5b-4007-ab42-7a250414c40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dropbox Connection_test_intern']/parent::*</value>
+      <webElementGuid>2c0deabf-ecd5-439c-820d-d87dc868f8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>0dc4a023-be39-4e37-b76a-cadb10bad98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[@id = 'name-label0' and (text() = 'Dropbox Connection_test_intern' or . = 'Dropbox Connection_test_intern')]</value>
+      <webElementGuid>8775642b-5f0b-4a0b-bab5-8861084e7efc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

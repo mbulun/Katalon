@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bria Connection_test_intern</name>
+   <tag></tag>
+   <elementGuidId>b01e4d77-6476-45f1-a996-cdedaaaedc14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#flow-connection-option-15 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='flow-connection-option-15']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d2dc3088-01fe-4f50-a86b-f51cca3b4669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Bria Connection_test_intern</value>
+      <webElementGuid>bddc2e13-56d1-438c-8c3e-9772c6e8660c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flow-connection-option-15&quot;)/span[1]</value>
+      <webElementGuid>584a8c10-c257-4240-a72c-53f069e8b000</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='flow-connection-option-15']/span</value>
+      <webElementGuid>717a4d04-6576-4d71-8e6a-ba8a16587dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[16]/span</value>
+      <webElementGuid>0767d0e4-4d39-4bb2-8922-04f8508afb64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Bria Connection_test_intern' or . = ' Bria Connection_test_intern')]</value>
+      <webElementGuid>55aedbac-41ee-4aee-9fb6-c2bb08e6697e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

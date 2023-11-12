@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Metadatamodels Retrieve Metadata Models_f9a591</name>
+   <tag></tag>
+   <elementGuidId>1bee892e-5f28-4e85-886d-ebe77c406268</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-0']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-8.overflow-y.full-width.step-box-inside</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>645a8bfc-6d85-43b0-9456-612383fe3fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-8 overflow-y full-width step-box-inside</value>
+      <webElementGuid>f4955c23-b940-42ab-a0fd-33fe5d9cfc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Metadatamodels: Retrieve Metadata Models for specified object type. (GET)</value>
+      <webElementGuid>2277b7ed-9acc-4b2e-877a-5f75e6813681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-0&quot;)/div[@class=&quot;card-body d-flex flex-column border-radius-12 pd-b-20 p-0 justify-content-between align-items-center overflow-y&quot;]/div[@class=&quot;padding-8 overflow-y full-width step-box-inside&quot;]</value>
+      <webElementGuid>b28a35b5-0b90-4531-abd8-1c2deec3734f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-0']/div/div[2]</value>
+      <webElementGuid>26a8ee2e-b55b-42ac-a841-6c520527b8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='version 0.2.1'])[1]/following::div[19]</value>
+      <webElementGuid>7a0674da-1c02-4c4e-86c2-647831890291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flow Details'])[1]/preceding::div[6]</value>
+      <webElementGuid>17735357-7c2b-454e-955a-a2dddcb1b37c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>f8f8ce6f-6d84-463c-b834-1b07d341fa2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Metadatamodels: Retrieve Metadata Models for specified object type. (GET)' or . = 'Metadatamodels: Retrieve Metadata Models for specified object type. (GET)')]</value>
+      <webElementGuid>9f5e7da6-6c02-44c8-be5d-e8293acbddb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Get Items</name>
+   <tag></tag>
+   <elementGuidId>95d690f9-c1dd-4625-933c-41d64976fe31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-8.overflow-y.full-width.step-box-inside</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-0']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37728015-3cd0-4b28-9140-e58e52dec461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-8 overflow-y full-width step-box-inside</value>
+      <webElementGuid>de7ca4eb-3017-4389-8391-2860308f17d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Items</value>
+      <webElementGuid>6b8151f2-ed5a-448b-bd46-9d622852441d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-0&quot;)/div[@class=&quot;card-body d-flex flex-column border-radius-12 pd-b-20 p-0 justify-content-between align-items-center overflow-y&quot;]/div[@class=&quot;padding-8 overflow-y full-width step-box-inside&quot;]</value>
+      <webElementGuid>5377ffc0-c503-4483-ac2f-75b629dc35ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-0']/div/div[2]</value>
+      <webElementGuid>bffcb841-3bd7-41d1-9196-3a9528fddc38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='version 0.2.1'])[1]/following::div[19]</value>
+      <webElementGuid>5725d9d7-06bb-4d47-a916-794faeb3a8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flow Details'])[1]/preceding::div[6]</value>
+      <webElementGuid>482ac90a-63dd-4fee-b86a-2deea38544be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>06c966b2-d62a-4ff6-9958-00a3a188a6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Get Items' or . = 'Get Items')]</value>
+      <webElementGuid>8af06feb-2921-4d4d-8f93-6edd86c86ad4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

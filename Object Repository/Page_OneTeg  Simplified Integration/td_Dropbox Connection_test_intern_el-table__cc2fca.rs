@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Dropbox Connection_test_intern_el-table__cc2fca</name>
+   <tag></tag>
+   <elementGuidId>eb6aca05-e4fa-4c7f-ad13-514a38b7d552</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.el-table_5_column_22.el-table__cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>041ff4aa-0b82-481a-89ba-477db9760a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-table_5_column_22   el-table__cell</value>
+      <webElementGuid>cf208aa9-6512-4775-975e-a1c70dd20ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3b252900-d823-44ce-a6a9-c8f6a9130851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>0e087007-ce4d-4742-a4e4-405f1ca2ff85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show-connections&quot;)/div[@class=&quot;el-card is-always-shadow card border-0&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--scrollable-y el-table--enable-row-hover el-table--enable-row-transition el-table&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-none&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_5_column_22   el-table__cell&quot;]</value>
+      <webElementGuid>ee3a2306-4878-4705-8584-c43ce0412e85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show-connections']/div/div/div/div[3]/table/tbody/tr/td[4]</value>
+      <webElementGuid>5818c354-799b-4964-8de7-3089b221a07d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropbox Connection_test_intern'])[1]/following::td[3]</value>
+      <webElementGuid>faf208fa-753f-4b31-9e5e-19ac04e0ebf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::td[4]</value>
+      <webElementGuid>62ddba67-5961-43e0-bc48-5d4331dba5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mediavalet 2'])[1]/preceding::td[2]</value>
+      <webElementGuid>fd6a8cb3-eee3-4bdf-802e-4e09d13c28fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syndigo new con'])[1]/preceding::td[7]</value>
+      <webElementGuid>5c50deea-c7ac-4439-8163-577db8cbb68e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>5c2d2809-d7fb-4e76-95d1-dc074165bcb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

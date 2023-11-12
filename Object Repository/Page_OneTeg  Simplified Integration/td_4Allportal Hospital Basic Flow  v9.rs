@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_4Allportal Hospital Basic Flow  v9</name>
+   <tag></tag>
+   <elementGuidId>80bcb9c9-c2f7-42e9-8dac-c103e7ebf96e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.el-table_14_column_66.el-table__cell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flows-card']/div/div/div[3]/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>fb5f7cbe-793e-435c-b80d-3b22d94b7456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-table_14_column_66   el-table__cell</value>
+      <webElementGuid>9597b08c-8bc3-4926-bc26-3dc56f62d16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>45e2e219-adfd-43f1-9384-5b44e7dd1bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>28676a3a-f78b-490a-85ea-458f47afa398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4Allportal Hospital Basic Flow  v9</value>
+      <webElementGuid>d549fbad-8822-43ac-88fc-aa0d7433279b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flows-card&quot;)/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--enable-row-hover el-table--enable-row-transition el-table&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-none&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_14_column_66   el-table__cell&quot;]</value>
+      <webElementGuid>4cfecda6-a19f-4067-a686-52dc0d47be09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flows-card']/div/div/div[3]/table/tbody/tr/td</value>
+      <webElementGuid>3fe412dd-acc8-4237-b2e1-95d4741fc3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::td[1]</value>
+      <webElementGuid>68382097-c46a-46c2-93f3-ff76ac2da203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled'])[1]/following::td[1]</value>
+      <webElementGuid>e248e735-af65-47ad-8248-f09c80c1c0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>fde2e9dc-3166-4aca-8ad0-10ef7a7b2df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '4Allportal Hospital Basic Flow  v9' or . = '4Allportal Hospital Basic Flow  v9')]</value>
+      <webElementGuid>6e948590-9f7e-4d8e-bb3e-c167dcbe74be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

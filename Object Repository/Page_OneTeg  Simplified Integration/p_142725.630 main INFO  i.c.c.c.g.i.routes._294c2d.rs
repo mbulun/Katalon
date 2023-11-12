@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_142725.630 main INFO  i.c.c.c.g.i.routes._294c2d</name>
+   <tag></tag>
+   <elementGuidId>dac3480f-aafd-4d53-9007-eb6f09cd6bb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-screen']/div/p[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dbdde1a8-f9df-4fc3-bc08-338dcc2f5ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm-start</value>
+      <webElementGuid>3c7192f7-8845-415c-a88b-69601a15f322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>14:27:25.630 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+</value>
+      <webElementGuid>381198ed-f58a-4069-a3b5-7fae029c36ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-step-box&quot;)/div[@class=&quot;card card-drawer background-fb oneteg-drawer-medium&quot;]/div[4]/div[@class=&quot;vdr inactive&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;modal-container&quot;]/div[2]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/div[@id=&quot;main-screen&quot;]/div[1]/p[@class=&quot;text-sm-start&quot;]</value>
+      <webElementGuid>5ca9d79d-7a47-41b4-aa4c-9a07f8abee99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-screen']/div/p[8]</value>
+      <webElementGuid>a0331c66-bbbf-4be5-8116-a9f75d89756e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Logs'])[1]/following::p[8]</value>
+      <webElementGuid>70ecc395-1f88-4baa-9020-86511da415bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step Functions'])[1]/following::p[8]</value>
+      <webElementGuid>2628872f-afb7-43d4-8712-89521b33eca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='f'])[5]/preceding::p[1]</value>
+      <webElementGuid>be1bb71d-9d3e-4d24-8a0c-b7c0b10a63a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]</value>
+      <webElementGuid>c4fbbf31-d0b8-410f-b836-c68dc9ab412d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '14:27:25.630 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+' or . = '14:27:25.630 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+')]</value>
+      <webElementGuid>3bccdba4-6722-4a59-bafd-1ae6a6894cc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

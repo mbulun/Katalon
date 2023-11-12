@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_134905.914 main INFO  i.c.c.c.g.i.routes._ca8330</name>
+   <tag></tag>
+   <elementGuidId>2dbd6620-fefa-4b8b-a09c-683adec1b5f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-screen']/div/p[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f522883f-fad4-4931-8f73-99b7784a5a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm-start</value>
+      <webElementGuid>ae44355f-4248-4f57-b04b-382ef95441f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>13:49:05.914 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+</value>
+      <webElementGuid>3e638133-f7b1-4c66-8dce-72ffeb85b805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-screen&quot;)/div[1]/p[@class=&quot;text-sm-start&quot;]</value>
+      <webElementGuid>8e222e7e-67ee-4370-aade-5f3387bffd45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-screen']/div/p[8]</value>
+      <webElementGuid>1dc1018b-a399-4fca-ae10-007498576518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mail basic flow'])[1]/following::p[8]</value>
+      <webElementGuid>89e2f2ef-32e5-49e5-a761-7657abc42aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'main-screen', '&quot;', ')/div[1]/p[@class=', '&quot;', 'text-sm-start', '&quot;', ']')])[1]/preceding::p[1]</value>
+      <webElementGuid>36db514c-b193-4525-91b4-34752434f16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Africa/Abidjan'])[1]/preceding::p[1]</value>
+      <webElementGuid>84086ca7-f3d0-4556-b423-225fce9f3048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]</value>
+      <webElementGuid>0aec1939-fca2-4b93-b05f-b6f0176071d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '13:49:05.914 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+' or . = '13:49:05.914 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+')]</value>
+      <webElementGuid>3171621b-f9dd-41b9-a82d-4b168b9a0c78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

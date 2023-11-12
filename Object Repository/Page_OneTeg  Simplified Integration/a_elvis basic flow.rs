@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_elvis basic flow</name>
+   <tag></tag>
+   <elementGuidId>160ecb4a-7187-4ec8-b049-68a4b9263795</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b23328fc-d945-444e-a4bc-890090949f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-0</value>
+      <webElementGuid>05aa0c0c-f94a-44ec-8189-b42567116a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>elvis basic flow</value>
+      <webElementGuid>f354d09c-a9fc-4a20-b7c2-6abf819b7ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-0&quot;)</value>
+      <webElementGuid>bb8343f4-6aad-407a-aba8-4296f05706f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-0']</value>
+      <webElementGuid>47fbe460-0602-4589-a7f7-0e28f518c80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-0']/a</value>
+      <webElementGuid>55150da9-c47c-4b5e-b40e-0ee5e2323233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'elvis basic flow')]</value>
+      <webElementGuid>3486f9c0-cd13-4d1c-8b9a-aee7891e640e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::a[1]</value>
+      <webElementGuid>3f04bedd-4feb-4e7f-b352-b16f0e685710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled'])[1]/following::a[1]</value>
+      <webElementGuid>bf2dea1d-5630-4296-93cb-9fd1dd484864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2'])[1]/preceding::a[1]</value>
+      <webElementGuid>ee475a59-3918-4ad6-92eb-b210f3bb56d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='elvis basic flow']/parent::*</value>
+      <webElementGuid>e63475e9-3447-4638-a471-edc0109abee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/a</value>
+      <webElementGuid>7f9d87b1-5c65-4cfe-98fd-6ca9dbdca803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-0' and (text() = 'elvis basic flow' or . = 'elvis basic flow')]</value>
+      <webElementGuid>2a0771ea-1395-4e23-8c04-0397ab277811</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_EmailPasswordLanguageForgot PasswordLOGIN</name>
+   <tag></tag>
+   <elementGuidId>5960f6ba-e4ad-4e45-bd14-608ae39449eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.el-form.margin.margin-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>95f38534-1c0a-4c4a-a1fd-df89afa14469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-form margin margin-left</value>
+      <webElementGuid>5ea3aad9-3a80-4e38-af17-e7f0b70d1a2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EmailPasswordLanguageForgot PasswordLOGIN</value>
+      <webElementGuid>30fc1c59-a810-4a9c-830c-1e0d30418ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center flex-column&quot;]/div[@class=&quot;login-page&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center login-page&quot;]/form[@class=&quot;el-form margin margin-left&quot;]</value>
+      <webElementGuid>cd1a8f3f-8a3f-467a-9cfd-6a96677c1981</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/form</value>
+      <webElementGuid>79f782d6-e229-4146-9a50-39d19911b5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>655292e3-2682-4f54-998f-36943346ced8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'EmailPasswordLanguageForgot PasswordLOGIN' or . = 'EmailPasswordLanguageForgot PasswordLOGIN')]</value>
+      <webElementGuid>a163a4fd-61f7-429f-a8ec-b3bed100b9cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jira basic flow</name>
+   <tag></tag>
+   <elementGuidId>5216fbf9-0b9a-454c-8ada-e7673a7eedea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-16']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-16</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f0ab53b2-a3b1-43e8-a8e1-fbfae8ae16a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-16</value>
+      <webElementGuid>5b904ce2-d09f-4b03-b3cb-e67ca2385810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jira basic flow</value>
+      <webElementGuid>5cd14a5d-414a-48b8-8927-8d12ee97af1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-16&quot;)</value>
+      <webElementGuid>c0ccda0b-a9f7-4460-8b1d-a891f1405f22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-16']</value>
+      <webElementGuid>21b002b1-65cd-443d-a6d8-34d965fd2cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-16']/a</value>
+      <webElementGuid>a6be8a75-efad-4022-8200-04b15fcbfd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Jira basic flow')]</value>
+      <webElementGuid>30bb3538-bb23-4bee-9f1c-26dd42d6687b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v10'])[2]/following::a[1]</value>
+      <webElementGuid>ec22a216-d24d-400a-bde5-340b0c5fc59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[7]/preceding::a[1]</value>
+      <webElementGuid>37e60b44-e12d-4277-8962-bdc4e64b5d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jira basic flow']/parent::*</value>
+      <webElementGuid>7541b152-00ee-4ebd-8eb3-788816e58761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[17]/td/div/div/a</value>
+      <webElementGuid>9043fb45-fc9e-49c0-9bc2-880f1fcc7ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-16' and (text() = 'Jira basic flow' or . = 'Jira basic flow')]</value>
+      <webElementGuid>6ecbfc77-8d6a-4d88-ac11-cde332beff4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Excel basic flow</name>
+   <tag></tag>
+   <elementGuidId>ecfb5c14-2942-4ef6-bfca-e7e5eb1ac596</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-18']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20f5eb3f-452a-4340-a551-7a6576409678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-18</value>
+      <webElementGuid>79823cba-799f-4234-9478-0bdab073cb70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Excel basic flow</value>
+      <webElementGuid>e03c993d-c239-4d21-9f89-c67044962352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-18&quot;)</value>
+      <webElementGuid>cb327d3b-db91-4ddd-995a-174345a58939</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-18']</value>
+      <webElementGuid>997065be-b0cf-4b05-83b5-dd9b466339de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-18']/a</value>
+      <webElementGuid>4a107573-5717-48f5-955e-993a81a86101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Excel basic flow')]</value>
+      <webElementGuid>8a315b9b-d096-4d21-a383-531597af7739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[8]/following::a[1]</value>
+      <webElementGuid>742e71ee-9968-44cc-9727-09b4b4559cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[9]/preceding::a[1]</value>
+      <webElementGuid>dcc97880-43a4-4495-a40b-254cae589f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Excel basic flow']/parent::*</value>
+      <webElementGuid>fb444424-9194-41fa-992c-3ca5bb3c3c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[19]/td/div/div/a</value>
+      <webElementGuid>d44c6ea0-4112-47db-b660-4c2d3ec4f0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-18' and (text() = 'Excel basic flow' or . = 'Excel basic flow')]</value>
+      <webElementGuid>699020d6-a221-4d30-b917-04b447e70276</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_111457.845 main INFO  i.c.c.c.g.i.routes._aa5ce9</name>
+   <tag></tag>
+   <elementGuidId>134644b5-da44-4860-b362-09fb179b04c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-screen']/div/p[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a0322bf4-7d3e-4441-9991-08d83658e713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm-start</value>
+      <webElementGuid>b3a6e568-ec04-437c-8f89-9964b18b7332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11:14:57.845 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+</value>
+      <webElementGuid>f7741053-559a-4bd8-b38c-ce9e3ebbd552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-screen&quot;)/div[1]/p[@class=&quot;text-sm-start&quot;]</value>
+      <webElementGuid>1bfad3b4-01ef-4552-a295-ca7db7fc9ca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-screen']/div/p[8]</value>
+      <webElementGuid>e482c0ff-a401-4527-8fbd-10877e693b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Logs'])[1]/following::p[8]</value>
+      <webElementGuid>ba61dc5d-3e67-4a4f-8d50-759b85ec8a7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step Functions'])[1]/following::p[8]</value>
+      <webElementGuid>772e8da3-76d1-4dd1-acda-4922b11a360e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='f'])[1]/preceding::p[1]</value>
+      <webElementGuid>e9a3ae61-3cd3-4a7a-b6bd-977f08c6e9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]</value>
+      <webElementGuid>5f9f666e-f5df-406d-b31c-9def7b9b8087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '11:14:57.845 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+' or . = '11:14:57.845 [main] INFO  i.c.c.c.g.i.routes.StepRouteBuilder - Process completed ...
+')]</value>
+      <webElementGuid>32872373-ccb3-43d7-bce7-3ef0acc8175c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

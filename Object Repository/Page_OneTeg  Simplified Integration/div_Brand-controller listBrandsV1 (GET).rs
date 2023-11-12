@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Brand-controller listBrandsV1 (GET)</name>
+   <tag></tag>
+   <elementGuidId>5664b291-826a-4607-b063-8bfaa8106c04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-8.overflow-y.full-width.step-box-inside</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-0']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>955e3814-d773-4c37-a8d7-664c63d3251f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-8 overflow-y full-width step-box-inside</value>
+      <webElementGuid>624e0744-2977-406d-8103-9deaff7450bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brand-controller: listBrandsV1 (GET)</value>
+      <webElementGuid>73fe7a25-863c-430a-a268-447bfc5292bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-0&quot;)/div[@class=&quot;card-body d-flex flex-column border-radius-12 pd-b-20 p-0 justify-content-between align-items-center overflow-y&quot;]/div[@class=&quot;padding-8 overflow-y full-width step-box-inside&quot;]</value>
+      <webElementGuid>7588875a-808a-42c9-80d3-80d338fd107e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-0']/div/div[2]</value>
+      <webElementGuid>43eacc26-7be8-48a5-94cb-59f19d53e3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='version 0.2.1'])[1]/following::div[19]</value>
+      <webElementGuid>941066e2-58a4-4d7d-8f66-3860beeac562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flow Details'])[1]/preceding::div[6]</value>
+      <webElementGuid>4090beae-50c4-4a24-8624-d2da07b72919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>a43688f2-fe7b-4d42-bf71-56d4b0d5976d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Brand-controller: listBrandsV1 (GET)' or . = 'Brand-controller: listBrandsV1 (GET)')]</value>
+      <webElementGuid>a2b0918f-7ba0-4761-8ca1-ef697b74c56b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

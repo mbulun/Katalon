@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Organization_el-input__inner_organization</name>
+   <tag></tag>
+   <elementGuidId>577d9521-326b-4250-bc90-7f26ef087534</elementGuidId>
+   <imagePath>../../Pictures/Katalon Screenshots/User Creation Organization.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../Pictures/Katalon Screenshots/User Creation Organization.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-input.el-input--small.el-input--suffix > input.el-input__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d3afb8f4-0a8b-489a-b87c-812d8183ec13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-input__inner</value>
+      <webElementGuid>94255030-14cb-4a42-9dde-14f201ea6a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d88a99bf-ed07-4f65-80ef-300334cfe31b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>a91ffdf5-b65a-49f3-ade8-e14307cb6d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select an organization</value>
+      <webElementGuid>1de871b0-cb3c-436b-9639-b246a21420e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-user&quot;)/div[@class=&quot;card border-0 background-fb&quot;]/div[@class=&quot;card-body overflow-auto font-size-14&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column margin-top-10&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/div[@class=&quot;d-flex flex-row justify-content-between margin-top-10&quot;]/div[1]/div[@class=&quot;el-select el-select--small&quot;]/div[@class=&quot;select-trigger&quot;]/div[@class=&quot;el-input el-input--small el-input--suffix&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
+      <webElementGuid>f4aa7d9d-3463-460b-882e-13e669dfbbde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>4f9ce383-3a3e-43b2-9f1a-a19b37708944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-user']/div/div[2]/div/div[5]/div[2]/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>20bcd05e-5306-4e18-ad0b-1a14e00ab8fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>a04288a1-9838-4997-ad83-a1522742e920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Select an organization']</value>
+      <webElementGuid>05426f14-a13b-4a69-9147-362081d7cd0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

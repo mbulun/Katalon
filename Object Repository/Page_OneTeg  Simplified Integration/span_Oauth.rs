@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Oauth</name>
+   <tag></tag>
+   <elementGuidId>0cd8ea89-43b2-4073-ba19-71968a829eb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Oauth' or . = 'Oauth')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-popper-2097']/div/div/div/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-select-dropdown.is-multiple > div.el-scrollbar > div.el-select-dropdown__wrap.el-scrollbar__wrap.el-scrollbar__wrap--hidden-default > ul.el-scrollbar__view.el-select-dropdown__list > li.el-select-dropdown__item > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aebe655e-7228-4739-bfbe-e2b8efab21fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Oauth</value>
+      <webElementGuid>1deb0f77-a8df-47c7-bbbd-fb392614e734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-popper-2097&quot;)/div[@class=&quot;el-select-dropdown is-multiple&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item&quot;]/span[1]</value>
+      <webElementGuid>c5c6d637-1b95-4431-93ec-ebc6e63ec917</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-popper-2097']/div/div/div/ul/li/span</value>
+      <webElementGuid>f945f5fe-d7ea-4cb1-85f4-909d9a718145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[1]</value>
+      <webElementGuid>0df81cd2-8b9d-4e72-9131-804378903496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::span[1]</value>
+      <webElementGuid>a757396f-c030-450d-afb6-7907c804da8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Oauth']/parent::*</value>
+      <webElementGuid>3c0501e0-6741-4969-a7b4-1d2045c301cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/ul/li/span</value>
+      <webElementGuid>a94cd9c7-4ed8-4dc3-ac64-1cdd07badf47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Oauth' or . = 'Oauth')]</value>
+      <webElementGuid>a9ecb5fa-0d8a-4ccb-a35c-db3438ecab93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

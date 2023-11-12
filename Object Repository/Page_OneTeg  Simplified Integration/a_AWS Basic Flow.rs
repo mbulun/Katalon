@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AWS Basic Flow</name>
+   <tag></tag>
+   <elementGuidId>f1eff2ce-2910-4046-bfb4-a505a0b12ba7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>163f6e3c-5bd0-4526-8784-c5831b9d4e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-0</value>
+      <webElementGuid>44b3174f-1824-4b5a-9a8c-f3a121b109c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AWS Basic Flow</value>
+      <webElementGuid>909eedd9-62ae-4c4f-9933-6efb17db55f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-0&quot;)</value>
+      <webElementGuid>c9fa1c13-2e41-4ac1-a03b-306012bab38c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-0']</value>
+      <webElementGuid>107db40a-a1d0-44c1-baab-18b057ed0287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-0']/a</value>
+      <webElementGuid>c0cd1f29-2fae-46c0-b0c2-68e1597b116c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AWS Basic Flow')]</value>
+      <webElementGuid>f3d34245-a457-4269-8f29-1485acf3379a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::a[1]</value>
+      <webElementGuid>9ae95ee0-3970-4096-abfd-4bdb08eac720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled'])[1]/following::a[1]</value>
+      <webElementGuid>cb73ea15-c82b-4ee8-9086-946fcfa57931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v9'])[1]/preceding::a[1]</value>
+      <webElementGuid>e04159f0-d2f0-418f-8f26-52aae0d5ba86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AWS Basic Flow']/parent::*</value>
+      <webElementGuid>34fa7e34-d417-47e7-982c-096d8954a654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/a</value>
+      <webElementGuid>54cd2970-8a8d-4ae1-a73e-978e2f3c7bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-0' and (text() = 'AWS Basic Flow' or . = 'AWS Basic Flow')]</value>
+      <webElementGuid>36ce73c3-ec8d-4ef7-aeb6-01f6137d976b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

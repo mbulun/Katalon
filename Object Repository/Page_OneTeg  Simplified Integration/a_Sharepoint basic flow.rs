@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sharepoint basic flow</name>
+   <tag></tag>
+   <elementGuidId>84b96ad4-3f0b-4ab2-b41c-3bc82c5ad2cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>06655f80-f147-4ef6-a579-3a21c89003ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-2</value>
+      <webElementGuid>7e6b358c-0adb-4588-a2c8-57efdfe182c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sharepoint basic flow</value>
+      <webElementGuid>08fdb170-26d2-4fbe-a8c6-85e1a186caeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-2&quot;)</value>
+      <webElementGuid>9b56083b-8682-4b22-aa9c-22c87fdcf620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-2']</value>
+      <webElementGuid>6dee0dc4-a8d9-4c3f-ad59-21d52c6f1154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-2']/a</value>
+      <webElementGuid>43258bb5-a6c6-44a9-93e3-9c828e63839f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sharepoint basic flow')]</value>
+      <webElementGuid>4f95079d-dcb6-498e-9996-41f2b68f9033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v5'])[1]/following::a[1]</value>
+      <webElementGuid>8cbd327a-a620-4a2b-9617-1c89ed7901e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2'])[1]/preceding::a[1]</value>
+      <webElementGuid>303e50f3-ef21-4168-84a6-1e07ea793c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sharepoint basic flow']/parent::*</value>
+      <webElementGuid>87a95bd7-22c0-414a-9015-6a7c996ee22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/div/a</value>
+      <webElementGuid>a04ca5d5-428c-4f07-ab82-1f19cd0c12b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-2' and (text() = 'Sharepoint basic flow' or . = 'Sharepoint basic flow')]</value>
+      <webElementGuid>d41c6bbd-74b9-4036-971d-22f48401e4be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

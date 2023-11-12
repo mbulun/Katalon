@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Basic Flows,Chrome 115.0.0.0,,,2023-08-02 14:27:16,2023-08-02 14:29:59,"2m - 42,783s",PASSED
+,,,,,,,
+Test Cases/Smoke Testing/Basic Flow Check/4AllPortal Flow Check,Chrome 115.0.0.0,,,2023-08-02 14:27:17,2023-08-02 14:29:59,"2m - 42,219s",PASSED
+"callTestCase(findTestCase(""1-Login/Login_WithoutLogout""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-02 14:27:18,2023-08-02 14:27:30,"12,608s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/li_Flows""))",Chrome 115.0.0.0,,,2023-08-02 14:27:30,2023-08-02 14:27:34,"3,681s",PASSED
+"setText(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/input_Active_search-input""), ""4Allportal Hospital Basic Flow"")",Chrome 115.0.0.0,,,2023-08-02 14:27:34,2023-08-02 14:27:37,"2,731s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/td_4Allportal Hospital Basic Flow  v9""))",Chrome 115.0.0.0,,,2023-08-02 14:27:37,2023-08-02 14:27:43,"6,407s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/div_Apps Get all respository apps (GET)""))",Chrome 115.0.0.0,,,2023-08-02 14:27:43,2023-08-02 14:27:46,"3,117s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/button_Apps Get all respository apps (GET)__1baa0f""))",Chrome 115.0.0.0,,,2023-08-02 14:27:46,2023-08-02 14:27:48,"2,063s",PASSED
+"verifyElementPresent(findTestObject(""Page_OneTeg  Simplified Integration/4Allportal Flow - Process completed""), 0)",Chrome 115.0.0.0,,,2023-08-02 14:27:48,2023-08-02 14:28:23,"34,666s",PASSED
+"click(findTestObject(""Page_OneTeg  Simplified Integration/li_Activities""))",Chrome 115.0.0.0,,,2023-08-02 14:28:23,2023-08-02 14:28:53,"30,301s",PASSED
+delay(3),Chrome 115.0.0.0,,,2023-08-02 14:28:53,2023-08-02 14:28:56,"3,038s",PASSED
+"callTestCase(findTestCase(""1-Login/Just Logout""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-02 14:28:56,2023-08-02 14:29:59,"1m - 2,601s",PASSED

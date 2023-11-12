@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Okunmam</name>
+   <tag></tag>
+   <elementGuidId>63b286e9-cc37-4a8c-9394-bbd4f6bc8aa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fluent-default-layer-host']/div[6]/div/div/div/div/div/div/ul/li[2]/button/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;Okunmamış&quot;] > div.ms-ContextualMenu-linkContent.linkContent-410 > span.ms-ContextualMenu-itemText.label-537</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>394206f3-840f-4dd0-9838-48e608788c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-ContextualMenu-itemText label-537</value>
+      <webElementGuid>e4d843b5-9d95-414d-a9a2-b78679248252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Okunmamış</value>
+      <webElementGuid>5b2bdfef-160f-477d-9a14-de5c740db746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fluent-default-layer-host&quot;)/div[@class=&quot;ms-Layer ms-Layer--fixed root-326&quot;]/div[@class=&quot;ms-Fabric ms-Layer-content content-291 ms-Fabric--isFocusHidden&quot;]/div[@class=&quot;ms-Callout-container container-424&quot;]/div[@class=&quot;ms-Callout ms-ContextualMenu-Callout STM2G root-540 css-94&quot;]/div[@class=&quot;ms-Callout-main modK_ calloutMain-428&quot;]/div[@class=&quot;ms-ContextualMenu-container container-313&quot;]/div[@class=&quot;ms-FocusZone css-169 ms-ContextualMenu is-open root-403&quot;]/ul[@class=&quot;ms-ContextualMenu-list is-open Oa3_f list-314&quot;]/li[@class=&quot;ms-ContextualMenu-item fMwKe H5QRi item-420&quot;]/button[@class=&quot;ms-ContextualMenu-link root-422&quot;]/div[@class=&quot;ms-ContextualMenu-linkContent linkContent-410&quot;]/span[@class=&quot;ms-ContextualMenu-itemText label-537&quot;]</value>
+      <webElementGuid>53ec2f16-9d08-45a3-b5b2-9c8327b5685c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fluent-default-layer-host']/div[6]/div/div/div/div/div/div/ul/li[2]/button/div/span</value>
+      <webElementGuid>f2f18adb-1a6a-4b5b-8705-5b2b4680df36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tümü'])[1]/following::span[2]</value>
+      <webElementGuid>f0785516-ca30-4f1c-952e-01ed8b53c247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zr'])[1]/following::span[4]</value>
+      <webElementGuid>ad7660f1-a872-47fb-ad25-e583fbcfea19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayrak eklenmiş'])[1]/preceding::span[2]</value>
+      <webElementGuid>7631d80e-92a7-42f8-a357-43e629ba6653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bana'])[1]/preceding::span[4]</value>
+      <webElementGuid>e39e7fe7-7852-483b-9625-699f4af602c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Okunmamış']/parent::*</value>
+      <webElementGuid>b2ce6dff-1163-4384-8bbd-f7e9f4de490c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button/div/span</value>
+      <webElementGuid>2a06e548-0264-49d1-8b68-51972ff81a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Okunmamış' or . = 'Okunmamış')]</value>
+      <webElementGuid>72b9f94d-7aaa-4d5e-b2d8-37b06cf03e29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

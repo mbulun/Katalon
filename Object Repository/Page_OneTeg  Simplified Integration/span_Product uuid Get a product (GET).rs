@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Product uuid Get a product (GET)</name>
+   <tag></tag>
+   <elementGuidId>1b6aa682-92bb-41d9-adae-aa1052d8d257</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flow-action-option-105 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dd882a4a-9e91-418f-a9e5-fd689ca2778a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product [uuid]: Get a product (GET)</value>
+      <webElementGuid>8ef80d74-6b59-4bd2-bea6-b42113ba484e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flow-action-option-105&quot;)/span[1]</value>
+      <webElementGuid>6854052a-999a-4658-81cd-987565d3bb72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='flow-action-option-105']/span</value>
+      <webElementGuid>c1296db8-c6eb-4308-a8b3-8fe8e37e29a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product [uuid]: Get a draft (GET)'])[1]/following::span[1]</value>
+      <webElementGuid>4e9d614d-0a49-4865-baf5-ef28907c06ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product [uuid]: Delete a product (DELETE)'])[1]/following::span[2]</value>
+      <webElementGuid>725097e7-c704-464f-9033-97a11ea0cecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product [uuid]: Get list of products (GET)'])[1]/preceding::span[1]</value>
+      <webElementGuid>fa3640ac-cfd4-4bd9-8ca3-7beb4950016c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product [uuid]: Submit a draft for approval (POST)'])[1]/preceding::span[2]</value>
+      <webElementGuid>3596b0e8-f20a-43d4-9459-da88ae8c4945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[106]/li/span</value>
+      <webElementGuid>e7efa8c0-b09f-4f35-b614-c059def67d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Product [uuid]: Get a product (GET)' or . = 'Product [uuid]: Get a product (GET)')]</value>
+      <webElementGuid>1c3b4b6a-3aac-4142-a4d4-88edfe486af2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

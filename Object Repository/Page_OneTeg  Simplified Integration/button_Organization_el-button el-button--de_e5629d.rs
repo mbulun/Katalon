@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Organization_el-button el-button--de_e5629d</name>
+   <tag></tag>
+   <elementGuidId>103f9769-bbee-4042-aa00-e838653f7cd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.el-button.el-button--default.el-button--mini.btn-oneTeg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>046904ca-feb6-49aa-9c89-6381f8ab57d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-button el-button--default el-button--mini btn-oneTeg</value>
+      <webElementGuid>e2c4b3f1-8e64-4968-b25f-2a8b7d27b68a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a2c6e7dc-a7f1-43c3-a192-2d10b37bc326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-user&quot;)/div[@class=&quot;card border-0 background-fb&quot;]/div[@class=&quot;card-body overflow-auto font-size-14&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column margin-top-10&quot;]/div[@class=&quot;d-flex flex-row justify-content-between align-items-center&quot;]/div[1]/button[@class=&quot;el-button el-button--default el-button--mini btn-oneTeg&quot;]</value>
+      <webElementGuid>2e1d8c84-a176-42d4-98fc-9f39717f6a32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>86190087-8d79-4fa4-986c-3b2ed53f5162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-user']/div/div[2]/div/div[5]/div/div/button</value>
+      <webElementGuid>dd8b6b03-c4bd-4d01-9cad-cf600fbdcc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::button[1]</value>
+      <webElementGuid>06520640-1856-464a-8385-d4e5c52ce262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>c4a52bf2-6ef8-4dac-ab0b-cea2c990d2a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>171408f2-a15d-4a8c-bddc-4fe6b32346ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Product uuid Get a product (GET)</name>
+   <tag></tag>
+   <elementGuidId>07b2dc54-0473-4dd7-b3fe-e8f37b538e4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-0']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-8.overflow-y.full-width.step-box-inside</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d95ce5d2-c218-4bb6-babf-5ea61ccd7eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-8 overflow-y full-width step-box-inside</value>
+      <webElementGuid>a2efbbee-30fe-4cb6-8669-a4544eb94cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product [uuid]: Get a product (GET)</value>
+      <webElementGuid>4d886725-5013-4bfa-9f8f-d029de9b89d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-0&quot;)/div[@class=&quot;card-body d-flex flex-column border-radius-12 pd-b-20 p-0 justify-content-between align-items-center overflow-y&quot;]/div[@class=&quot;padding-8 overflow-y full-width step-box-inside&quot;]</value>
+      <webElementGuid>072697eb-981e-48ab-a3ea-96a6cfcc1810</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-0']/div/div[2]</value>
+      <webElementGuid>b2f7447b-4cd2-40a7-b576-0b29c5edaacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='version 0.2.1'])[1]/following::div[19]</value>
+      <webElementGuid>4fd6ad56-9512-4de6-8257-126c6f993057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flow Details'])[1]/preceding::div[6]</value>
+      <webElementGuid>22cc85c8-6875-4cde-9e6e-e8facd523ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>fd6cde47-5743-4259-8cc9-f3f34fe2b9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Product [uuid]: Get a product (GET)' or . = 'Product [uuid]: Get a product (GET)')]</value>
+      <webElementGuid>8bd88342-0207-4306-b9d2-cb32e88c3a43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

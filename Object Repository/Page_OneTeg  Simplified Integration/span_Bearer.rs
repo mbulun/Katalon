@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bearer</name>
+   <tag></tag>
+   <elementGuidId>07341514-cc9f-4fe2-bee4-e9c82bdb0ce5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Bearer' or . = 'Bearer')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-popper-1914']/div/div/div/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-select-dropdown.is-multiple > div.el-scrollbar > div.el-select-dropdown__wrap.el-scrollbar__wrap.el-scrollbar__wrap--hidden-default > ul.el-scrollbar__view.el-select-dropdown__list > li.el-select-dropdown__item > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e5fc09a2-7456-4e17-a899-b92d5b212b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bearer</value>
+      <webElementGuid>9ce0300c-6dbf-4be8-9f39-5bba515d434f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-popper-1914&quot;)/div[@class=&quot;el-select-dropdown is-multiple&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item&quot;]/span[1]</value>
+      <webElementGuid>53fcb2ac-1e6c-4fb1-bd2f-9abd2461993b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-popper-1914']/div/div/div/ul/li/span</value>
+      <webElementGuid>c8c7013a-fe20-4f66-a809-c4fc2a5dff56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[1]</value>
+      <webElementGuid>e95dac85-5d7a-4790-8a0e-94fae543e880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::span[1]</value>
+      <webElementGuid>dac8e73b-d0ec-4bfa-9618-f1480453e7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bearer']/parent::*</value>
+      <webElementGuid>1c3d2f4c-fc43-49d3-9228-346b7bd61559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/ul/li/span</value>
+      <webElementGuid>2f05488e-8d1f-4a38-b707-d3cf4e3ef4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Bearer' or . = 'Bearer')]</value>
+      <webElementGuid>aac4756d-398c-46e0-9dc3-d9e122dcd48c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

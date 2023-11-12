@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging-App</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://app.stg.oneteg.com/en/login'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin@oneteg.com'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SmXB99WKpPceeth+QYwa9w=='</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Akeneo Connection_testing_intern'</initValue>
+      <name>Akeneo_Connection_Creation_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Aws-oneteg-test-assets connection_test_intern'</initValue>
+      <name>Aws_oeneteg_connection_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bria Connection_test_intern'</initValue>
+      <name>Bria_Connection_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dropbox Connection_test_intern'</initValue>
+      <name>Dropbox_Connection_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4Allportal Hospital_test_intern'</initValue>
+      <name>FourAllportal_Hospital_Connection_Name</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_WithoutLogout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37904921-fe51-4f00-b135-3b7a4abcd47b</testCaseGuid>
+</TestCaseEntity>

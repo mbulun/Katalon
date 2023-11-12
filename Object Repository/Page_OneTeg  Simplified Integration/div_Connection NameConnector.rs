@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Connection NameConnector</name>
+   <tag></tag>
+   <elementGuidId>62767b97-2aa8-4277-9c33-1f97d12daa58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-connection']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body.overflow-auto.font-size-14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>845f3a44-e2ec-4819-850a-9c52d73f656f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body overflow-auto font-size-14</value>
+      <webElementGuid>97c73b82-841c-4e82-a32d-f8e1843d3d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Connection Name*Connector*</value>
+      <webElementGuid>dbce7614-a91d-4b24-986d-a880b081a284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-connection&quot;)/div[@class=&quot;card border-0 background-fb&quot;]/div[@class=&quot;card-body overflow-auto font-size-14&quot;]</value>
+      <webElementGuid>326059a3-515b-4c8b-b665-89774a0a0692</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-connection']/div/div[2]</value>
+      <webElementGuid>23d6e7f4-e9bc-4566-ab1c-9c2890bdce3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Connection'])[1]/following::div[1]</value>
+      <webElementGuid>d6086f7d-cffa-46a2-92ac-b205e41f6654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>76044407-d6bd-4a4d-8be7-de91bb0d3f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Connection Name*Connector*' or . = 'Connection Name*Connector*')]</value>
+      <webElementGuid>d13d839d-f172-4971-abba-a2090494836f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

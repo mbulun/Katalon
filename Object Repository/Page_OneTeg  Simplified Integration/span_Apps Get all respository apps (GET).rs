@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apps Get all respository apps (GET)</name>
+   <tag></tag>
+   <elementGuidId>50a72503-63f2-45fb-8594-848d3fd19f9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='flow-action-option-4']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flow-action-option-4 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c5ba3db-fabc-49bb-8ff2-942170e01f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apps: Get all respository apps (GET)</value>
+      <webElementGuid>4f80344f-b792-435f-91c6-64f226bbd2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flow-action-option-4&quot;)/span[1]</value>
+      <webElementGuid>205f6531-28ff-404f-926a-5994b9e84e5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='flow-action-option-4']/span</value>
+      <webElementGuid>d71dd424-7a6c-4c22-9e3f-23c0ae6131f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps: Delete the artifact from the local application repository (DELETE)'])[1]/following::span[1]</value>
+      <webElementGuid>a5c7b5e4-8c83-4d12-8e2c-cf9085e1ab80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps: Delete specific version of the artifact from the local application repository (DELETE)'])[1]/following::span[2]</value>
+      <webElementGuid>3fa41cb7-9140-43a2-8e15-f0318f7b7994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps: Get all versions to given artifact (GET)'])[1]/preceding::span[1]</value>
+      <webElementGuid>52f2f5db-8061-4d5b-9446-9d5ce49b1024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps: Get icon of the given version of the given artifact (GET)'])[1]/preceding::span[2]</value>
+      <webElementGuid>fcdd5b63-0981-449e-b3b8-ffdffa45bd9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/li/span</value>
+      <webElementGuid>37fed6d2-4256-4cf9-a826-17a5fb34ccd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apps: Get all respository apps (GET)' or . = 'Apps: Get all respository apps (GET)')]</value>
+      <webElementGuid>e4e8ef89-1cda-40b1-831a-20f5ea411eea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

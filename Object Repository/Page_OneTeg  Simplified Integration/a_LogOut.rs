@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LogOut</name>
+   <tag></tag>
+   <elementGuidId>2a71781c-6a2a-468a-9bbe-b49386e9b32e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cg-header']/div[2]/ul/li[3]/ul/li[9]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f5a4041-f694-43dc-9f4d-94cf31207a9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item a-class</value>
+      <webElementGuid>b0ffb151-c6f7-45a8-bc69-406f76c50278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  LogOut</value>
+      <webElementGuid>7e26dc73-339a-4b44-83cf-60a7f3ea037e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cg-header&quot;)/div[@class=&quot;d-flex flex-row justify-content-center align-items-center&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item dropdown cursor&quot;]/ul[@class=&quot;dropdown-menu font-size-12 show&quot;]/li[9]/a[@class=&quot;dropdown-item a-class&quot;]</value>
+      <webElementGuid>2df6e86c-9d64-4890-9425-3a41c4596659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cg-header']/div[2]/ul/li[3]/ul/li[9]/a</value>
+      <webElementGuid>f77049a9-cd55-4afb-b9ec-a947a38e3084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LogOut')]</value>
+      <webElementGuid>22b918a2-653b-4e70-8205-642f4c311969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='version 0.2.1'])[1]/following::a[1]</value>
+      <webElementGuid>2f4bad1c-9666-439d-8916-852758c4966b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role: ROLE_ADMIN'])[1]/following::a[2]</value>
+      <webElementGuid>7fd94481-8dd3-48dc-886d-bea5fd0be3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flow Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>485cd644-6d72-4faf-adca-b634aa86f7bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::a[1]</value>
+      <webElementGuid>fdb54efa-931b-4aca-8c00-14602b245302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a</value>
+      <webElementGuid>f93a18e3-76f5-44c5-942d-545bb8410b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '  LogOut' or . = '  LogOut')]</value>
+      <webElementGuid>9a2eb430-6b57-4fa1-ba49-81ea905d15cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

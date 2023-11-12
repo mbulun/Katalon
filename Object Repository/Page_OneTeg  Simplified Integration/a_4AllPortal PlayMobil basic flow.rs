@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_4AllPortal PlayMobil basic flow</name>
+   <tag></tag>
+   <elementGuidId>0addd6e4-669a-4fea-bab2-745625bcca0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-28']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-28</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f416d5c0-92b0-4ed5-96d2-4ee8381800d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-28</value>
+      <webElementGuid>2fe5c2d3-b7fb-40b7-8483-dc18e8952f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4AllPortal PlayMobil basic flow</value>
+      <webElementGuid>84afe66a-0802-4f09-85cb-1a38b311f728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-28&quot;)</value>
+      <webElementGuid>8a301a7c-6a05-452f-b045-b16545665b59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-28']</value>
+      <webElementGuid>c2481eb3-063a-4d44-97e0-a2353f85b4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-28']/a</value>
+      <webElementGuid>df80e268-4369-49f8-943f-5a45ae2899e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'4AllPortal PlayMobil basic flow')]</value>
+      <webElementGuid>9b1cefd3-c693-4110-bbc3-c8fdc40cf590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v3'])[6]/following::a[1]</value>
+      <webElementGuid>086a9d36-3d65-4987-b24d-0464a9ee36c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[8]/preceding::a[1]</value>
+      <webElementGuid>58728d9b-9fd1-484b-8e39-40f918d5f6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4AllPortal PlayMobil basic flow']/parent::*</value>
+      <webElementGuid>6c1e6c36-4ba4-4b98-8c4f-98f0d3b33438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[29]/td/div/div/a</value>
+      <webElementGuid>73b942ca-ef53-4723-8486-475a22f11ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-28' and (text() = '4AllPortal PlayMobil basic flow' or . = '4AllPortal PlayMobil basic flow')]</value>
+      <webElementGuid>f765faa1-6138-45f3-b90b-619d3c01a3a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

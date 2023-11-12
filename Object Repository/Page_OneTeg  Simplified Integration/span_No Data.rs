@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No Data</name>
+   <tag></tag>
+   <elementGuidId>d074fbea-c015-4bf4-ab00-b8ef7233b083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-table__empty-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show-connections']/div/div/div/div[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a9f765d-7153-4286-87e7-25fba6fe14ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-table__empty-text</value>
+      <webElementGuid>28f683a5-beac-4f24-9024-140f0d8f4071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Data</value>
+      <webElementGuid>d1d0d2af-06e3-41f9-a241-40bd460fd863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show-connections&quot;)/div[@class=&quot;el-card is-always-shadow card border-0&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--enable-row-hover el-table&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-none&quot;]/div[@class=&quot;el-table__empty-block&quot;]/span[@class=&quot;el-table__empty-text&quot;]</value>
+      <webElementGuid>a09b393f-cfe5-4189-a463-600237ddc917</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show-connections']/div/div/div/div[3]/div/span</value>
+      <webElementGuid>042a925a-3bdc-4880-9765-e0d8ce737854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::span[3]</value>
+      <webElementGuid>23fc5c1f-6a54-49a5-9cfc-062b6126ed0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connector'])[1]/following::span[3]</value>
+      <webElementGuid>ac87115d-b2f8-4b72-8412-28e19680287d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total 0'])[1]/preceding::span[1]</value>
+      <webElementGuid>2a8c73b4-e9b4-4a19-bff5-77649e6f372f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Data']/parent::*</value>
+      <webElementGuid>b7c75f0f-890d-4831-94c1-867dec67f394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>b28a6e39-36c9-4fff-9bfb-48b4b3431969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No Data' or . = 'No Data')]</value>
+      <webElementGuid>c5f327d8-e65c-4945-9978-815cdc1fe8bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

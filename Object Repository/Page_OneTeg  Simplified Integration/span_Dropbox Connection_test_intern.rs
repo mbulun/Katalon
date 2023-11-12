@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dropbox Connection_test_intern</name>
+   <tag></tag>
+   <elementGuidId>393abc0b-5532-4025-81c0-8db7b4c76b1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='flow-connection-option-18']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flow-connection-option-18 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9481e07f-fbf3-40c7-bfe9-23c2f057af47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dropbox Connection_test_intern</value>
+      <webElementGuid>5424a0f1-d0ee-4985-9d80-df57d148e589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flow-connection-option-18&quot;)/span[1]</value>
+      <webElementGuid>9cfdde02-7fd6-4d5d-b1e7-157e1ea5f1a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='flow-connection-option-18']/span</value>
+      <webElementGuid>c78aef78-57c9-4f71-9f53-628be4b415c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[19]/span</value>
+      <webElementGuid>267787eb-904a-4dad-8904-258a24a0b786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Dropbox Connection_test_intern' or . = ' Dropbox Connection_test_intern')]</value>
+      <webElementGuid>2d8bc950-adc8-427b-ace9-ef4eac476854</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

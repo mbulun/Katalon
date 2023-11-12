@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Bria Connection_test_intern</name>
+   <tag></tag>
+   <elementGuidId>88eb6485-f664-41cb-b65a-ee91891b9604</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong[@id='name-label0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>7c79286f-0e36-4bf7-a22e-a2dcde003fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label0</value>
+      <webElementGuid>e63f41a6-2fb0-4ff0-a45f-4b68e133e33f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bria Connection_test_intern</value>
+      <webElementGuid>40efa154-cca4-4426-b104-005cae748a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label0&quot;)</value>
+      <webElementGuid>662871f9-4e2f-4346-873e-815f2021a64c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//strong[@id='name-label0']</value>
+      <webElementGuid>086ed423-62f9-4f26-b781-7fc8f856d51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-0']/strong</value>
+      <webElementGuid>d8ce1e5e-6540-4f3e-9d45-4cb0573f8085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::strong[1]</value>
+      <webElementGuid>83b2034b-8116-47ed-b84f-790c58a015c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connector'])[1]/following::strong[1]</value>
+      <webElementGuid>e3f875eb-9d1e-4ab3-affe-23fe80b87860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total 1'])[1]/preceding::strong[1]</value>
+      <webElementGuid>834e5cbc-550c-4d65-ae8b-e41ba73a3177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'name-label0', '&quot;', ')')])[1]/preceding::strong[1]</value>
+      <webElementGuid>d3cf7bd9-bd87-433f-99a7-434b27b24a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bria Connection_test_intern']/parent::*</value>
+      <webElementGuid>9b8e570a-f1e6-4a4d-929e-66e1aaae2de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>746333c0-3ab3-49c3-9e80-4ca8c2e47ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[@id = 'name-label0' and (text() = 'Bria Connection_test_intern' or . = 'Bria Connection_test_intern')]</value>
+      <webElementGuid>403394f2-0d90-48f1-bacf-60ef677c7dd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

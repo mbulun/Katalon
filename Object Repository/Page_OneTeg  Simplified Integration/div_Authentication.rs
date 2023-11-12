@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Authentication</name>
+   <tag></tag>
+   <elementGuidId>31a1f4e6-1624-45b4-ba79-c053976c9975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show-connections']/div/div/div/div[2]/table/thead/tr/th[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.el-table_10_column_47.is-leaf.el-table__cell > div.cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eef526c6-c504-4fda-b031-1d92c70a6f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>77d2092e-2c57-46f7-948e-74db924bb740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Authentication</value>
+      <webElementGuid>a8a44bab-f49e-40c6-ba2c-be7d90b12d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show-connections&quot;)/div[@class=&quot;el-card is-always-shadow card border-0&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--scrollable-y el-table--enable-row-hover el-table--enable-row-transition el-table&quot;]/div[@class=&quot;el-table__header-wrapper&quot;]/table[@class=&quot;el-table__header&quot;]/thead[@class=&quot;has-gutter&quot;]/tr[1]/th[@class=&quot;el-table_10_column_47     is-leaf el-table__cell&quot;]/div[@class=&quot;cell&quot;]</value>
+      <webElementGuid>ade99711-32a4-4d4f-9359-86ac06838e11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show-connections']/div/div/div/div[2]/table/thead/tr/th[4]/div</value>
+      <webElementGuid>b8f05e75-e64d-45ad-979b-6e64483ad43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connector'])[1]/following::div[1]</value>
+      <webElementGuid>04c6a2cf-8ae4-4932-b22e-6f5c72970789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created At'])[1]/following::div[2]</value>
+      <webElementGuid>fdb23c3e-ea9b-4f51-a5f0-834d278b6961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akeneo Connection_testing_intern'])[1]/preceding::div[5]</value>
+      <webElementGuid>c1cff871-be00-46d1-863e-7cf49934a807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mediavalet 2'])[1]/preceding::div[16]</value>
+      <webElementGuid>131039c9-ad54-48eb-ad4a-1a934f8f2ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Authentication']/parent::*</value>
+      <webElementGuid>4073727d-f902-4d64-a36b-0b7d788c7097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/div</value>
+      <webElementGuid>de576ae7-4ad7-4f66-9b4d-731ec1d21ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Authentication' or . = 'Authentication')]</value>
+      <webElementGuid>7693e284-5bdb-481b-95c2-fb41277e3974</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

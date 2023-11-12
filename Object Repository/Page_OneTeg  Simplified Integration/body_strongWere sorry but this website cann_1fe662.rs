@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_strongWere sorry but this website cann_1fe662</name>
+   <tag></tag>
+   <elementGuidId>b3cff81b-ae13-4fee-bb04-6df143f9879f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>2671d50a-994d-4a97-b4e4-f5faa93d1413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;strong>We're sorry but this website cannot work properly without JavaScript enabled. Please enable it to continue.&lt;/strong>DashboardFlowsActivitiesConnectionsConnectorsUsersOrganizationsRolesWebhookHomeConnectionsCreate Help cyangateoneSelect an organizationSharepoint zafer cyangateone Preferencesbgovercin@cyangate.comRole: ROLE_ADMINversion 0.2.1  LogOutCreate ConnectionConnection Name*Connector*Additional SettingsHost Name*Authentication*BackSaveid(&quot;connection-connector-option-11&quot;)  4AllPortal Connector -v1.0  4AllPortal-v1.0  Adobe InDesign Connector -v1.0  Agility Connector -v1.0  Airtable Connector -v1.0  Airtable Connector -v1.1  Akeneo Connector -v1.0  Aprimo Connector -v1.0  AWS S3 Connector -v1.0  Azure-Blob-Storage Connector -v1.0  Blend Connector -v1.0  Bria Connector -v1.0  Bright Cove Connector -v1.0  Bynder Connector -v1.0  Cloudinary Connector -v1.0  Confluence Connector -v1.0  Downloader Connector -v1.0  Dropbox Connector -v1.0  Drupal Connector -v1.0  Elvis Connector -v1.0  Excel Office365 Connector -v1.0  Ftp Connector -v1.0  Google Sheet Connector -v1.0  Google Storage Connector -v1.0  Google Vision Connector -v1.0  Hoot Suite Connector -v1.0  Http Connector -v1.0  Http-Rest Connector -v1.0  InRiver Connector -v1.0  Jira Connector -v1.0  Jira Connector -v2.0  LinkedIn Connector-v1.0  Magento Connector -v1.0  Mail Connector -v1.0  Mediavalet Connector -v1.0  Onedrive Connector -v1.0  Open AI v2  OpenAi Connector -v1.0  Otmm -v6  PostAds Connector -v1.0  Salsify Connector -v1.0  Scaleflex Connector -v1.0  Sharepoint Connector -v1.0  Showpad Connector -v1.0  Slack Connector -v1.0  SmintIO Connector  Spotify Connector -v1.0  SprinkIr Connector -v1.0  Syndigo  Templafy Connector -v1.0  Threekit Connector -v1.0  Toolbox Connector -v1.0  Trello Connector -v1.0  VIP Connector  Webhook Connector -v1.0  Woodwing Studio Connector -v1.0  WorkFront Connector -v1.1  Wrike Connector -v1.0  Youtube Connector -v1.0Apikey</value>
+      <webElementGuid>e5fb0c41-d236-4e28-a9b9-5e377519d5a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>ce03a0c2-2428-4d67-8e55-5aae9ad4b3a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>6349b5f8-ba54-44f7-9be9-25e4d089f892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>5a2133c2-c957-4deb-a3ee-bbd6085af2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = concat(&quot;&lt;strong>We&quot; , &quot;'&quot; , &quot;re sorry but this website cannot work properly without JavaScript enabled. Please enable it to continue.&lt;/strong>DashboardFlowsActivitiesConnectionsConnectorsUsersOrganizationsRolesWebhookHomeConnectionsCreate Help cyangateoneSelect an organizationSharepoint zafer cyangateone Preferencesbgovercin@cyangate.comRole: ROLE_ADMINversion 0.2.1  LogOutCreate ConnectionConnection Name*Connector*Additional SettingsHost Name*Authentication*BackSaveid(&quot;connection-connector-option-11&quot;)  4AllPortal Connector -v1.0  4AllPortal-v1.0  Adobe InDesign Connector -v1.0  Agility Connector -v1.0  Airtable Connector -v1.0  Airtable Connector -v1.1  Akeneo Connector -v1.0  Aprimo Connector -v1.0  AWS S3 Connector -v1.0  Azure-Blob-Storage Connector -v1.0  Blend Connector -v1.0  Bria Connector -v1.0  Bright Cove Connector -v1.0  Bynder Connector -v1.0  Cloudinary Connector -v1.0  Confluence Connector -v1.0  Downloader Connector -v1.0  Dropbox Connector -v1.0  Drupal Connector -v1.0  Elvis Connector -v1.0  Excel Office365 Connector -v1.0  Ftp Connector -v1.0  Google Sheet Connector -v1.0  Google Storage Connector -v1.0  Google Vision Connector -v1.0  Hoot Suite Connector -v1.0  Http Connector -v1.0  Http-Rest Connector -v1.0  InRiver Connector -v1.0  Jira Connector -v1.0  Jira Connector -v2.0  LinkedIn Connector-v1.0  Magento Connector -v1.0  Mail Connector -v1.0  Mediavalet Connector -v1.0  Onedrive Connector -v1.0  Open AI v2  OpenAi Connector -v1.0  Otmm -v6  PostAds Connector -v1.0  Salsify Connector -v1.0  Scaleflex Connector -v1.0  Sharepoint Connector -v1.0  Showpad Connector -v1.0  Slack Connector -v1.0  SmintIO Connector  Spotify Connector -v1.0  SprinkIr Connector -v1.0  Syndigo  Templafy Connector -v1.0  Threekit Connector -v1.0  Toolbox Connector -v1.0  Trello Connector -v1.0  VIP Connector  Webhook Connector -v1.0  Woodwing Studio Connector -v1.0  WorkFront Connector -v1.1  Wrike Connector -v1.0  Youtube Connector -v1.0Apikey&quot;) or . = concat(&quot;&lt;strong>We&quot; , &quot;'&quot; , &quot;re sorry but this website cannot work properly without JavaScript enabled. Please enable it to continue.&lt;/strong>DashboardFlowsActivitiesConnectionsConnectorsUsersOrganizationsRolesWebhookHomeConnectionsCreate Help cyangateoneSelect an organizationSharepoint zafer cyangateone Preferencesbgovercin@cyangate.comRole: ROLE_ADMINversion 0.2.1  LogOutCreate ConnectionConnection Name*Connector*Additional SettingsHost Name*Authentication*BackSaveid(&quot;connection-connector-option-11&quot;)  4AllPortal Connector -v1.0  4AllPortal-v1.0  Adobe InDesign Connector -v1.0  Agility Connector -v1.0  Airtable Connector -v1.0  Airtable Connector -v1.1  Akeneo Connector -v1.0  Aprimo Connector -v1.0  AWS S3 Connector -v1.0  Azure-Blob-Storage Connector -v1.0  Blend Connector -v1.0  Bria Connector -v1.0  Bright Cove Connector -v1.0  Bynder Connector -v1.0  Cloudinary Connector -v1.0  Confluence Connector -v1.0  Downloader Connector -v1.0  Dropbox Connector -v1.0  Drupal Connector -v1.0  Elvis Connector -v1.0  Excel Office365 Connector -v1.0  Ftp Connector -v1.0  Google Sheet Connector -v1.0  Google Storage Connector -v1.0  Google Vision Connector -v1.0  Hoot Suite Connector -v1.0  Http Connector -v1.0  Http-Rest Connector -v1.0  InRiver Connector -v1.0  Jira Connector -v1.0  Jira Connector -v2.0  LinkedIn Connector-v1.0  Magento Connector -v1.0  Mail Connector -v1.0  Mediavalet Connector -v1.0  Onedrive Connector -v1.0  Open AI v2  OpenAi Connector -v1.0  Otmm -v6  PostAds Connector -v1.0  Salsify Connector -v1.0  Scaleflex Connector -v1.0  Sharepoint Connector -v1.0  Showpad Connector -v1.0  Slack Connector -v1.0  SmintIO Connector  Spotify Connector -v1.0  SprinkIr Connector -v1.0  Syndigo  Templafy Connector -v1.0  Threekit Connector -v1.0  Toolbox Connector -v1.0  Trello Connector -v1.0  VIP Connector  Webhook Connector -v1.0  Woodwing Studio Connector -v1.0  WorkFront Connector -v1.1  Wrike Connector -v1.0  Youtube Connector -v1.0Apikey&quot;))]</value>
+      <webElementGuid>9fe73587-60dc-4091-bb93-994cc6b71e91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Connector</name>
+   <tag></tag>
+   <elementGuidId>7ebc582d-01c0-465e-85d6-44d01e8e4f8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show-connections']/div/div/div/div[2]/table/thead/tr/th[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.el-table_8_column_36.is-leaf.el-table__cell > div.cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80cdc584-b8f4-4505-a60a-6d4113898995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>2e4b06e7-948e-4310-8313-1dfee50ab310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Connector</value>
+      <webElementGuid>b4809eba-0ebf-40eb-b61b-9aaf40fcd53b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show-connections&quot;)/div[@class=&quot;el-card is-always-shadow card border-0&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--scrollable-y el-table--enable-row-hover el-table--enable-row-transition el-table&quot;]/div[@class=&quot;el-table__header-wrapper&quot;]/table[@class=&quot;el-table__header&quot;]/thead[@class=&quot;has-gutter&quot;]/tr[1]/th[@class=&quot;el-table_8_column_36     is-leaf el-table__cell&quot;]/div[@class=&quot;cell&quot;]</value>
+      <webElementGuid>aa95a571-88c5-4076-85db-433caebc274d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show-connections']/div/div/div/div[2]/table/thead/tr/th[3]/div</value>
+      <webElementGuid>fa72985d-91c5-44d7-a2e4-f38397435fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created At'])[1]/following::div[1]</value>
+      <webElementGuid>a6e17aa0-8904-44dd-8777-c258a0906096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connection'])[1]/following::div[2]</value>
+      <webElementGuid>c82a077d-038f-4e57-8a4e-62d931040a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/preceding::div[1]</value>
+      <webElementGuid>b37c14db-d5ee-404c-96e0-5062bad7bae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mediavalet 2'])[1]/preceding::div[6]</value>
+      <webElementGuid>3fc71895-58f8-4f2d-b427-f2ef7a8e55bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Connector']/parent::*</value>
+      <webElementGuid>ec60f160-bffa-4bf0-a256-27634fb3f2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/div</value>
+      <webElementGuid>4d0cdde5-a62f-41fe-a12c-bedeca63ee5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Connector' or . = 'Connector')]</value>
+      <webElementGuid>d8352503-80e8-4549-83c8-4713cbe61253</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

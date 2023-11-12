@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CORE</name>
+   <tag></tag>
+   <elementGuidId>f61ee68b-d7fc-404c-bdee-c0b09f60aad7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#connector-type-option-core > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='connector-type-option-core']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c603508b-2006-4bd5-bf63-208225543298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CORE</value>
+      <webElementGuid>1e1b6091-15c7-4187-b3ae-547d17d629ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;connector-type-option-core&quot;)/span[1]</value>
+      <webElementGuid>385fb7ba-58ae-4f61-87ed-4cae1dc945e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='connector-type-option-core']/span</value>
+      <webElementGuid>97dddedd-bc43-4b60-b90b-60733addde5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='showpadConnector-v1.0'])[1]/following::span[1]</value>
+      <webElementGuid>d79f8adb-b32f-495d-8b48-d9ade84c2e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='inRiverConnector-v1.0'])[1]/following::span[2]</value>
+      <webElementGuid>9334d237-a7e1-471a-a438-89629abcd10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXTERNAL'])[1]/preceding::span[1]</value>
+      <webElementGuid>a8beb8ed-fd57-4908-9a53-8ccf3292b584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FREE'])[1]/preceding::span[2]</value>
+      <webElementGuid>dbea9400-1eab-4bca-b15b-dd32939c937f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CORE']/parent::*</value>
+      <webElementGuid>e70bea86-d476-490a-9705-2e52461b1c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/ul/li/span</value>
+      <webElementGuid>7e0edd00-a5af-4673-b9c7-eb6f60d0f6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CORE' or . = 'CORE')]</value>
+      <webElementGuid>ec3cbd3c-8f31-4f60-a2da-2e3f5cf368a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

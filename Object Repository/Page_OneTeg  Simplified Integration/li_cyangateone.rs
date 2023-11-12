@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_cyangateone</name>
+   <tag></tag>
+   <elementGuidId>40703a90-d958-45de-b450-34307cf31fd2</elementGuidId>
+   <imagePath>../../Pictures/Katalon Screenshots/Matched Elements/li_cyangateone_neighbor.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../Pictures/Katalon Screenshots/Matched Elements/li_cyangateone_neighbor.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;el-popper-2357&quot;)/div[@class=&quot;el-select-dropdown&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item&quot;][count(. | //li[@class = 'el-select-dropdown__item' and (text() = 'cyangateone' or . = 'cyangateone')]) = count(//li[@class = 'el-select-dropdown__item' and (text() = 'cyangateone' or . = 'cyangateone')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-popper-2120']/div/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>31539361-2060-4ac1-858c-2b8d5d0b1021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-select-dropdown__item</value>
+      <webElementGuid>b922467b-5cba-4a33-b3dd-eec97fd84ef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>cyangateone</value>
+      <webElementGuid>8c79576f-42b9-4540-8c3e-5fded1d4d578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-popper-2120&quot;)/div[@class=&quot;el-select-dropdown&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item&quot;]</value>
+      <webElementGuid>fe5d4c9e-dc28-4c0f-88a8-a122ac0cb2ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-popper-2120']/div/div/div/ul/li[2]</value>
+      <webElementGuid>ad15ed88-7688-4317-960a-5da538ddcab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sharepoint'])[2]/following::li[1]</value>
+      <webElementGuid>8ee1c03f-2ded-433c-b151-dc2494ca0cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-3'])[2]/preceding::li[1]</value>
+      <webElementGuid>0716a733-ea7d-480b-8c57-3b643d593166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/ul/li[2]</value>
+      <webElementGuid>56601b85-a035-40d7-bd60-761d714103a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'cyangateone' or . = 'cyangateone')]</value>
+      <webElementGuid>37049d6c-943c-4e9b-b029-27508999f471</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

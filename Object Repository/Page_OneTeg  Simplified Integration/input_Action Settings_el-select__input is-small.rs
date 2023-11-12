@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Action Settings_el-select__input is-small</name>
+   <tag></tag>
+   <elementGuidId>34a24b9f-409e-4f9f-b4b2-10b296f121c5</elementGuidId>
+   <imagePath>../../Pictures/Katalon Screenshots/Akeneo Authentication Select.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'Select']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../Pictures/Katalon Screenshots/Akeneo Authentication Select.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.el-select__input.is-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e0cbe916-e53f-4dcb-a839-7ae037f5bf0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>72f657f7-022f-4369-be47-0cc29ee2cd10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-select__input is-small</value>
+      <webElementGuid>2704f886-c2f6-4601-b1eb-72d7d29866b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>bc2a9766-06e0-456e-87cd-3614aef48b8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-settings&quot;)/div[@class=&quot;margin-top-10&quot;]/div[@class=&quot;el-select el-select--small width-100&quot;]/div[@class=&quot;select-trigger&quot;]/div[@class=&quot;el-select__tags&quot;]/input[@class=&quot;el-select__input is-small&quot;]</value>
+      <webElementGuid>9f515919-64f2-4cb1-9a76-2186f087bf36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>36c9860b-3a97-4251-ba8a-6ddb89315b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action-settings']/div[2]/div/div/div/input</value>
+      <webElementGuid>606731b6-1cf1-427e-9d86-41c3c1ca112a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/input</value>
+      <webElementGuid>fa71296d-7e5e-4661-a1cd-7f564b881d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>857a1375-6504-4430-965a-abd1a3def5e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

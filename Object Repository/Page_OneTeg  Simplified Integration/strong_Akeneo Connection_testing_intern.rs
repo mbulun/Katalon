@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Akeneo Connection_testing_intern</name>
+   <tag></tag>
+   <elementGuidId>722083eb-4c08-45cc-8e37-cb4ba24b1b63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong[@id='name-label0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>4c6a53e1-3be4-4e42-9a23-39b054f3de67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label0</value>
+      <webElementGuid>f2128883-19a9-4f80-b4bc-ca867a10c4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akeneo Connection_testing_intern</value>
+      <webElementGuid>6d1867b6-fb20-45fa-8afb-a248854b129f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label0&quot;)</value>
+      <webElementGuid>fef71399-0436-4eb5-9666-45d7c354c316</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//strong[@id='name-label0']</value>
+      <webElementGuid>ae1a42b7-672b-479f-9e33-2757d8f853ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-0']/strong</value>
+      <webElementGuid>35475356-f56d-4c9c-851f-1a1f3e495ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::strong[1]</value>
+      <webElementGuid>a010d699-7e46-4c8d-91c1-b5233dd5dc4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connector'])[1]/following::strong[1]</value>
+      <webElementGuid>e3f404e0-8cdd-4847-bfc1-1dada1d434f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total 1'])[1]/preceding::strong[1]</value>
+      <webElementGuid>ea3c48e5-b979-4eae-aeb7-c077107d2763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'name-label0', '&quot;', ')')])[1]/preceding::strong[1]</value>
+      <webElementGuid>20da432c-98eb-479a-8117-bdc9f4d6c22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Akeneo Connection_testing_intern']/parent::*</value>
+      <webElementGuid>3d3f79f5-ff56-454b-9f4c-abd153b4d541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>92f2440d-b1ab-4a53-b497-1ccb9252a654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[@id = 'name-label0' and (text() = 'Akeneo Connection_testing_intern' or . = 'Akeneo Connection_testing_intern')]</value>
+      <webElementGuid>1c1f5084-165c-455d-95bf-1c0d0ada6337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Inriver basic flow</name>
+   <tag></tag>
+   <elementGuidId>4206f9a9-925b-42ae-93d3-fbb8e7314287</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-17']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-17</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>36a73e03-82ee-427d-a710-f1f6c8faa68d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-17</value>
+      <webElementGuid>611bd249-c4eb-475a-9142-a5d5fb691f11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inriver basic flow</value>
+      <webElementGuid>0a465c0f-f0aa-4a6a-9d8c-4e8398dd2504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-17&quot;)</value>
+      <webElementGuid>f3cea44b-5b0e-417f-9e16-e371bbe3233b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-17']</value>
+      <webElementGuid>a908515a-1ee2-4996-9c8a-0fbc6fc3123c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-17']/a</value>
+      <webElementGuid>72d087b2-9469-406e-9f66-7ea034ac0f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Inriver basic flow')]</value>
+      <webElementGuid>3d984d5e-29e8-4338-b204-631353e2b871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[7]/following::a[1]</value>
+      <webElementGuid>3971a078-736e-454b-a022-2d85d7e83c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[8]/preceding::a[1]</value>
+      <webElementGuid>4534a024-059e-4828-b192-e056967d8e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inriver basic flow']/parent::*</value>
+      <webElementGuid>2ce51105-a613-4f33-88bd-4319cc4d6acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[18]/td/div/div/a</value>
+      <webElementGuid>8c2f6b4d-8239-4d80-b88c-ff415fadf180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-17' and (text() = 'Inriver basic flow' or . = 'Inriver basic flow')]</value>
+      <webElementGuid>994d894b-6bdb-4d51-b525-4384a76dc2b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

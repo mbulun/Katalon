@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Akeneo Basic Flow</name>
+   <tag></tag>
+   <elementGuidId>6149e93d-a52b-4caf-9ecd-5dbffe590e2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-12']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>16f56f67-40dc-43be-bc05-21a0268664d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-12</value>
+      <webElementGuid>bc9fec97-9d94-499c-8a13-67d773cf51f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akeneo Basic Flow</value>
+      <webElementGuid>f6d78c81-d78d-455d-9915-82c99a40ce64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-12&quot;)</value>
+      <webElementGuid>6a017a7e-9678-4983-b8ee-210c08c4c0ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-12']</value>
+      <webElementGuid>cd735e3e-3fb0-4f18-abc3-a96d11c90382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-12']/a</value>
+      <webElementGuid>377e8620-e144-4d10-a998-6b0cdeceb7f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Akeneo Basic Flow')]</value>
+      <webElementGuid>ecd2fb5e-fcf7-417b-a216-78870e0e62c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[6]/following::a[1]</value>
+      <webElementGuid>73ce5f06-3cbd-439e-93fb-32f91252fabf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v3'])[1]/preceding::a[1]</value>
+      <webElementGuid>d05d79f3-2c1a-443a-8d34-596cfccd2cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Akeneo Basic Flow']/parent::*</value>
+      <webElementGuid>0f6c5d41-6bee-4f69-8b70-03c8a2660172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td/div/div/a</value>
+      <webElementGuid>92a26871-99c6-4c98-b04f-11c4fe52901a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-12' and (text() = 'Akeneo Basic Flow' or . = 'Akeneo Basic Flow')]</value>
+      <webElementGuid>a80e59aa-0459-4662-b865-8c555375ead7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

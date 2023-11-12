@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Airtable -v1.0 basic flow</name>
+   <tag></tag>
+   <elementGuidId>b0387453-837e-445f-8e90-d58879e91969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-19']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-19</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ab9664cc-4d84-47cf-b888-07e1de0d08e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-19</value>
+      <webElementGuid>f25d1520-7ba7-423d-9ffe-1018b09b2da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Airtable -v1.0 basic flow</value>
+      <webElementGuid>84e1b45a-6ec0-405a-93df-4e5f800988d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-19&quot;)</value>
+      <webElementGuid>9ad3a39a-0e00-4cbd-8f99-8cc686216c19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-19']</value>
+      <webElementGuid>ab634c91-d331-417b-b928-f103d5de2cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-19']/a</value>
+      <webElementGuid>1832cc7c-74d4-4514-b9f0-1f49b851ac1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Airtable -v1.0 basic flow')]</value>
+      <webElementGuid>2246ff36-2ea0-4b68-8d43-637b5b3516dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v3'])[5]/preceding::a[1]</value>
+      <webElementGuid>5d40746c-4c3f-4974-846c-79263120d33c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Airtable -v1.0 basic flow']/parent::*</value>
+      <webElementGuid>bbd20bc7-a9e1-44dc-9217-da3e6819662d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[20]/td/div/div/a</value>
+      <webElementGuid>2609e4d2-c1cb-46dc-ae4e-c50fbf6c5b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-19' and (text() = 'Airtable -v1.0 basic flow' or . = 'Airtable -v1.0 basic flow')]</value>
+      <webElementGuid>1d769efa-6538-446f-85a7-db3def33e725</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

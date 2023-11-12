@@ -1,0 +1,8 @@
+{"testCaseName":"Test Cases/1-Login/Login_CheckPasswordFeature","testCaseId":"Test Cases/1-Login/Login_CheckPasswordFeature","iterationVariableName":""}
+{"testCaseName":"Test Cases/1-Login/Login_DifferentLanguage","testCaseId":"Test Cases/1-Login/Login_DifferentLanguage","iterationVariableName":""}
+{"testCaseName":"Test Cases/1-Login/Login_HappyScenario","testCaseId":"Test Cases/1-Login/Login_HappyScenario","iterationVariableName":""}
+{"testCaseName":"Test Cases/1-Login/Login_NegativeScenario1 (Wrong Username)","testCaseId":"Test Cases/1-Login/Login_NegativeScenario1 (Wrong Username)","iterationVariableName":""}
+{"testCaseName":"Test Cases/1-Login/Login_NegativeScenario2 (Empty Username)","testCaseId":"Test Cases/1-Login/Login_NegativeScenario2 (Empty Username)","iterationVariableName":""}
+{"testCaseName":"Test Cases/1-Login/Login_NegativeScenario3 (Wrong Password)","testCaseId":"Test Cases/1-Login/Login_NegativeScenario3 (Wrong Password)","iterationVariableName":""}
+{"testCaseName":"Test Cases/1-Login/Login_NegativeScenario4 (Empty Password)","testCaseId":"Test Cases/1-Login/Login_NegativeScenario4 (Empty Password)","iterationVariableName":""}
+{"testCaseName":"Test Cases/1-Login/Login_NegativeScenario5 (Empty Username and Password)","testCaseId":"Test Cases/1-Login/Login_NegativeScenario5 (Empty Username and Password)","iterationVariableName":""}

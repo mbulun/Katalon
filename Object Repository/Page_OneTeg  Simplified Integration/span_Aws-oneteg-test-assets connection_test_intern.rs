@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aws-oneteg-test-assets connection_test_intern</name>
+   <tag></tag>
+   <elementGuidId>7675e66d-333e-47f3-92fd-6980fe1e5649</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='flow-connection-option-13']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flow-connection-option-13 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>96f8697c-fc6d-4aca-8b86-d168b6b227e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Aws-oneteg-test-assets connection_test_intern</value>
+      <webElementGuid>ecf48c7a-67f1-4f62-a635-a91444da7b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flow-connection-option-13&quot;)/span[1]</value>
+      <webElementGuid>9e789907-27e6-4f0b-b798-daa83774037a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='flow-connection-option-13']/span</value>
+      <webElementGuid>1cf2d690-718e-4bd9-a9d4-053a1d7a9f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[14]/span</value>
+      <webElementGuid>c652e2a6-8390-4734-bfa5-76c5936aac0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Aws-oneteg-test-assets connection_test_intern' or . = ' Aws-oneteg-test-assets connection_test_intern')]</value>
+      <webElementGuid>c44580de-0d36-49cf-8bd3-0c19c03a0f9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

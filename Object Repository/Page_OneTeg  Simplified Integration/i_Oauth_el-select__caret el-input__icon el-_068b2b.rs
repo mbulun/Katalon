@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Oauth_el-select__caret el-input__icon el-_068b2b</name>
+   <tag></tag>
+   <elementGuidId>3249f900-16fa-4b04-b5f9-77b8d23b00d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.el-select__caret.el-input__icon.el-icon-arrow-up.is-reverse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-connection']/div/div[2]/div/div[3]/div[2]/div/div/div/div/div[2]/span/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>af87f3df-1a59-4c83-b8aa-15f883994d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-select__caret el-input__icon el-icon-arrow-up is-reverse</value>
+      <webElementGuid>5225c989-6362-473a-a880-335dcdf19a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-connection&quot;)/div[@class=&quot;card border-0 background-fb&quot;]/div[@class=&quot;card-body overflow-auto font-size-14&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;margin-top-10 d-flex flex-column&quot;]/div[1]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;el-select el-select--small&quot;]/div[@class=&quot;select-trigger&quot;]/div[@class=&quot;el-input el-input--small el-input--suffix is-focus&quot;]/span[@class=&quot;el-input__suffix&quot;]/span[@class=&quot;el-input__suffix-inner&quot;]/i[@class=&quot;el-select__caret el-input__icon el-icon-arrow-up is-reverse&quot;]</value>
+      <webElementGuid>eab886bf-03ae-4983-bd23-13cfb215bbdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-connection']/div/div[2]/div/div[3]/div[2]/div/div/div/div/div[2]/span/span/i</value>
+      <webElementGuid>a9f26a8e-da50-473a-a8c9-52944ae24c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/i</value>
+      <webElementGuid>2000417e-4939-48a6-8076-df0a3c322d6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

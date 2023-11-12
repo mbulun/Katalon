@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tenant Admin_el-checkbox__inner</name>
+   <tag></tag>
+   <elementGuidId>1a6cf1d5-f4bd-4f0a-ab8b-ef27013437cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-checkbox__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-user']/div/div[2]/div/div[4]/label[2]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b9694900-4bc0-4d4d-a015-32d999dd924b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-checkbox__inner</value>
+      <webElementGuid>237f580c-a62f-4077-b4a4-220c00f496de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-user&quot;)/div[@class=&quot;card border-0 background-fb&quot;]/div[@class=&quot;card-body overflow-auto font-size-14&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;margin-top-10 d-flex flex-column&quot;]/label[@class=&quot;el-checkbox el-checkbox--large&quot;]/span[@class=&quot;el-checkbox__input&quot;]/span[@class=&quot;el-checkbox__inner&quot;]</value>
+      <webElementGuid>ac0b5e65-f510-4bf9-97d2-7b1385b9302a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-user']/div/div[2]/div/div[4]/label[2]/span/span</value>
+      <webElementGuid>1c208bd4-084b-4d5a-86d9-63cdbf6900ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>c43d5543-4c4d-4fa2-ae52-421697684ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

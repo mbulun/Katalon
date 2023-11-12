@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_4allportal Connector -v1.0</name>
+   <tag></tag>
+   <elementGuidId>b1c6a1c6-013f-42f7-838e-1ed353095e11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.margin-left-5.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='organization-draft']/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f58b3da6-7a13-4dde-8330-b17bcd88fb8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>transfer-check-right-0</value>
+      <webElementGuid>02dcaa14-9f04-4702-9d86-0fa7becb53bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>margin-left-5 cursor-pointer</value>
+      <webElementGuid>1da8cde3-2027-4447-ab8e-e519d76a4ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4allportal Connector -v1.0</value>
+      <webElementGuid>2201e7fe-f3f8-4bc1-a920-6468b025b34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;organization-draft&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;margin-top-10 d-flex flex-column&quot;]/div[@class=&quot;row justify-content-between no-margin&quot;]/div[@class=&quot;border width-48&quot;]/div[@class=&quot;row no-margin&quot;]/div[@class=&quot;el-scrollbar padding-0&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/div[@class=&quot;mt-1 mb-1 d-flex align-items-center justify-content-between transfer-item&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/label[@class=&quot;margin-left-5 cursor-pointer&quot;]</value>
+      <webElementGuid>f478130d-50ef-4ea8-b6a1-2581b0d28bb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='organization-draft']/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/label</value>
+      <webElementGuid>e42fbc39-6ec5-4183-8e9f-1a805fbc4383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Connectors'])[1]/following::label[1]</value>
+      <webElementGuid>abb8eaec-29e6-4248-aa3a-e01643867830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[2]/preceding::label[1]</value>
+      <webElementGuid>0a45462f-caae-492f-8fa4-fbfc9ab5851c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4allportal Connector -v1.0']/parent::*</value>
+      <webElementGuid>d9f99289-7753-4e0d-8989-e17dc7b477dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>cc540cd7-1edc-41a9-a016-62de39b4b52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '4allportal Connector -v1.0' or . = '4allportal Connector -v1.0')]</value>
+      <webElementGuid>f9828d59-a180-423a-a9c3-d36098aad10e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

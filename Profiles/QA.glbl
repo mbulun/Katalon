@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>QA</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://app.qa.oneteg.com/en/login\r\n'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'zcakar@cyangate.com'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'27bl8L23rM67bb93yMOd+A=='</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Akeneo Connection_testing_intern222'</initValue>
+      <name>Akeneo_Connection_Creation_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Aws-oneteg-test-assets connection_test_intern222'</initValue>
+      <name>Aws_oeneteg_connection_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bria Connection_test_intern222'</initValue>
+      <name>Bria_Connection_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dropbox Connection_test_intern222'</initValue>
+      <name>Dropbox_Connection_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4Allportal Hospital_test_intern222'</initValue>
+      <name>FourAllportal_Hospital_Connection_Name</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

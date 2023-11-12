@@ -1,0 +1,49 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+All login,Chrome 114.0.0.0,,,2023-07-18 13:59:59,2023-07-18 14:02:24,"2m - 24,653s",FAILED
+,,,,,,,
+Test Cases/1-Login/Login_CheckPasswordFeature,Chrome 114.0.0.0,,,2023-07-18 13:59:59,2023-07-18 14:00:36,"36,427s",PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 14:00:00,2023-07-18 14:00:04,"3,836s",PASSED
+"navigateToUrl(""https://app.qa.oneteg.com/"")",Chrome 114.0.0.0,,,2023-07-18 14:00:04,2023-07-18 14:00:14,"9,838s",PASSED
+"setText(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/input_Email_login-username""), ""bgovercin@cyangate.com"")",Chrome 114.0.0.0,,,2023-07-18 14:00:14,2023-07-18 14:00:21,"7,094s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/input_Password_login-password""), ""l8nIxjPZvqU="")",Chrome 114.0.0.0,,,2023-07-18 14:00:21,2023-07-18 14:00:28,"6,764s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/i_Password_el-input__icon el-icon-view el-i_d02f2e""))",Chrome 114.0.0.0,,,2023-07-18 14:00:28,2023-07-18 14:00:32,"3,618s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/i_Password_el-input__icon el-icon-view el-i_d02f2e""))",Chrome 114.0.0.0,,,2023-07-18 14:00:32,2023-07-18 14:00:35,"3,519s",PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-18 14:00:35,2023-07-18 14:00:36,"0,815s",PASSED
+,,,,,,,
+Test Cases/1-Login/Login_DifferentLanguage,Chrome 114.0.0.0,,,2023-07-18 14:00:36,2023-07-18 14:01:15,"38,996s",PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 14:00:37,2023-07-18 14:00:38,"1,500s",PASSED
+"navigateToUrl(""https://app.qa.oneteg.com/"")",Chrome 114.0.0.0,,,2023-07-18 14:00:38,2023-07-18 14:00:45,"7,312s",PASSED
+"setText(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/input_Email_login-username""), ""bgovercin@cyangate.com"")",Chrome 114.0.0.0,,,2023-07-18 14:00:45,2023-07-18 14:00:52,"6,995s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/input_Password_login-password""), ""Ivdx4VpTewhRw10ELGOG8w=="")",Chrome 114.0.0.0,,,2023-07-18 14:00:52,2023-07-18 14:00:59,"6,683s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/form_EmailPasswordLanguageForgot PasswordLOGIN""))",Chrome 114.0.0.0,,,2023-07-18 14:00:59,2023-07-18 14:01:03,"3,595s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/input_Language_login-language""))",Chrome 114.0.0.0,,,2023-07-18 14:01:03,2023-07-18 14:01:06,"3,673s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/li_Trke""))",Chrome 114.0.0.0,,,2023-07-18 14:01:06,2023-07-18 14:01:10,"3,654s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/button_GR""))",Chrome 114.0.0.0,,,2023-07-18 14:01:10,2023-07-18 14:01:14,"4,066s",PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-18 14:01:14,2023-07-18 14:01:15,"0,747s",PASSED
+,,,,,,,
+Test Cases/1-Login/Login_HappyScenario,Chrome 114.0.0.0,,,2023-07-18 14:01:21,2023-07-18 14:01:23,"2,089s",FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 14:01:21,2023-07-18 14:01:23,"1,987s",PASSED
+navigateToUrl(URL),Chrome 114.0.0.0,,,2023-07-18 14:01:23,2023-07-18 14:01:23,"0,089s",FAILED
+,,,,,,,
+Test Cases/1-Login/Login_NegativeScenario1 (Wrong Username),Chrome 114.0.0.0,,,2023-07-18 14:01:30,2023-07-18 14:01:33,"2,155s",FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 14:01:30,2023-07-18 14:01:32,"2,053s",PASSED
+navigateToUrl(URL),Chrome 114.0.0.0,,,2023-07-18 14:01:32,2023-07-18 14:01:33,"0,092s",FAILED
+,,,,,,,
+Test Cases/1-Login/Login_NegativeScenario2 (Empty Username),Chrome 114.0.0.0,,,2023-07-18 14:01:40,2023-07-18 14:01:42,"2,421s",FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 14:01:40,2023-07-18 14:01:42,"2,307s",PASSED
+navigateToUrl(URL),Chrome 114.0.0.0,,,2023-07-18 14:01:42,2023-07-18 14:01:42,"0,105s",FAILED
+,,,,,,,
+Test Cases/1-Login/Login_NegativeScenario3 (Wrong Password),Chrome 114.0.0.0,,,2023-07-18 14:01:50,2023-07-18 14:01:53,"2,403s",FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 14:01:50,2023-07-18 14:01:52,"2,276s",PASSED
+navigateToUrl(URL),Chrome 114.0.0.0,,,2023-07-18 14:01:52,2023-07-18 14:01:53,"0,114s",FAILED
+,,,,,,,
+Test Cases/1-Login/Login_NegativeScenario4 (Empty Password),Chrome 114.0.0.0,,,2023-07-18 14:02:00,2023-07-18 14:02:03,"2,338s",FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 14:02:00,2023-07-18 14:02:03,"2,198s",PASSED
+navigateToUrl(URL),Chrome 114.0.0.0,,,2023-07-18 14:02:03,2023-07-18 14:02:03,"0,130s",FAILED
+,,,,,,,
+Test Cases/1-Login/Login_NegativeScenario5 (Empty Username and Password),Chrome 114.0.0.0,,,2023-07-18 14:02:03,2023-07-18 14:02:24,"20,848s",PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 14:02:04,2023-07-18 14:02:06,"2,222s",PASSED
+"navigateToUrl(""https://app.qa.oneteg.com/en/login"")",Chrome 114.0.0.0,,,2023-07-18 14:02:06,2023-07-18 14:02:16,"9,963s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/input_Email_login-username""))",Chrome 114.0.0.0,,,2023-07-18 14:02:16,2023-07-18 14:02:19,"3,531s",PASSED
+"click(findTestObject(""Object Repository/Page_OneTeg  Simplified Integration/button_LOGIN""))",Chrome 114.0.0.0,,,2023-07-18 14:02:19,2023-07-18 14:02:23,"3,545s",PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-18 14:02:23,2023-07-18 14:02:24,"0,752s",PASSED

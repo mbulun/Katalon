@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Email field is required</name>
+   <tag></tag>
+   <elementGuidId>f963fe0c-8858-4748-aab5-ab6affde7451</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/form/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-form-item__error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6565b55b-5fa6-4704-b215-8778d6975eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-form-item__error</value>
+      <webElementGuid>069918e6-748f-4a9a-87ae-0dc76e5491cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email field is required.</value>
+      <webElementGuid>5055f40c-ee2e-4ecd-a59b-0618f913b242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center flex-column&quot;]/div[@class=&quot;login-page&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center login-page&quot;]/form[@class=&quot;el-form margin margin-left&quot;]/div[@class=&quot;el-form-item is-error d-flex flex-column align-items-center justify-content-center&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;el-form-item__error&quot;]</value>
+      <webElementGuid>c1da9f30-0ced-469e-b72c-fc6c8b3ac35c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/form/div/div/div[2]</value>
+      <webElementGuid>c7269e3d-d9be-4111-9e04-21d5f58970c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[3]</value>
+      <webElementGuid>f3829dac-cb6f-4c08-9ad0-46ce02418d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>74e3ddcd-7113-47c1-9ebb-cb7957ee150b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::div[5]</value>
+      <webElementGuid>67bf1c0a-b06a-49da-a9bf-9c2d6f08d3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email field is required.']/parent::*</value>
+      <webElementGuid>d864d22b-85d2-43a8-9ab3-a87ea2d96059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]</value>
+      <webElementGuid>dec3d9b0-05b2-4d19-9cb0-4166db2a3f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email field is required.' or . = 'Email field is required.')]</value>
+      <webElementGuid>9068194d-a269-446f-9c53-4f9be0c6dcc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aadminoneteg.comVerify your account</name>
+   <tag></tag>
+   <elementGuidId>764178d1-c6e2-411c-9c98-dc80d83eedcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AQAAAAAAAQABAAAABYdgZQAAAAA=']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.XG5Jd.JtO0E</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>288cd8c0-5d79-47a2-8c61-cf6d205b2a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>XG5Jd JtO0E</value>
+      <webElementGuid>d38b29f3-f7b4-43dd-8a95-8b7a9d61efa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aadmin@oneteg.comVerify your account12:13Use this link to verify your account. Hello bbbaristesting, Welcome to OneTeg! Please verify your email address and set your password to activate your account on app. Click the button below to verify your account: Verify Account</value>
+      <webElementGuid>f36096f3-db0d-4b92-9871-579195ab3bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AQAAAAAAAQABAAAABYdgZQAAAAA=&quot;)/div[1]/div[@class=&quot;zKDWD YbB6r IKvQi pYe4f IjQyD EhiOs JCRRb G1NES&quot;]/div[@class=&quot;XG5Jd JtO0E&quot;]</value>
+      <webElementGuid>90dc8c73-d643-49d6-9aa7-163110d81609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AQAAAAAAAQABAAAABYdgZQAAAAA=']/div/div/div[2]</value>
+      <webElementGuid>a435cb14-e0ab-4cd7-86a5-e979142bf3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>1760ef81-aa93-4301-b8b9-7091038c228f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Aadmin@oneteg.comVerify your account12:13Use this link to verify your account. Hello bbbaristesting, Welcome to OneTeg! Please verify your email address and set your password to activate your account on app. Click the button below to verify your account: Verify Account' or . = 'Aadmin@oneteg.comVerify your account12:13Use this link to verify your account. Hello bbbaristesting, Welcome to OneTeg! Please verify your email address and set your password to activate your account on app. Click the button below to verify your account: Verify Account')]</value>
+      <webElementGuid>b3855350-78da-447b-902e-32d25f61e4a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Role</name>
+   <tag></tag>
+   <elementGuidId>6b9398b5-f063-43b3-89a0-d7f76354ce15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.el-table_1_column_4.is-leaf.el-table__cell > div.cell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a1dcc9c-83ee-4be7-9183-b2ec7ed2e7e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>aabeb76f-3cdc-4b5f-8866-6fd1c92d651c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role</value>
+      <webElementGuid>68c713c5-4c21-4adc-84ce-b3189ca9d212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;users-card&quot;)/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--enable-row-hover el-table--enable-row-transition el-table&quot;]/div[@class=&quot;el-table__header-wrapper&quot;]/table[@class=&quot;el-table__header&quot;]/thead[@class=&quot;has-gutter&quot;]/tr[1]/th[@class=&quot;el-table_1_column_4     is-leaf el-table__cell&quot;]/div[@class=&quot;cell&quot;]</value>
+      <webElementGuid>ae1d45ff-5d8f-4086-934d-c40103cc04a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='users-card']/div/div/div[2]/table/thead/tr/th[4]/div</value>
+      <webElementGuid>1a6e2d4f-967f-4ba7-a93c-e4383fe0719c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created At'])[1]/following::div[1]</value>
+      <webElementGuid>5a15bb7a-717f-41a6-9c23-7b12aacaee23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lastname'])[1]/following::div[2]</value>
+      <webElementGuid>83716797-8990-477a-af36-5d87b2c91063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baris'])[1]/preceding::div[5]</value>
+      <webElementGuid>eacc4227-509a-43dc-93ce-b8575599fd7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Govercin'])[1]/preceding::div[6]</value>
+      <webElementGuid>18b43f7f-9216-4731-8f98-55e4432166f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Role']/parent::*</value>
+      <webElementGuid>8b71be65-2f8d-47c6-9d79-1990ccaa13d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/div</value>
+      <webElementGuid>2bc310cf-8107-4096-9a9d-c46bc4f635f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Role' or . = 'Role')]</value>
+      <webElementGuid>d20501b4-ad6e-406d-be76-7412a4b2e974</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

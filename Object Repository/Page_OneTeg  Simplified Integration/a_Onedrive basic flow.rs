@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Onedrive basic flow</name>
+   <tag></tag>
+   <elementGuidId>96974a7d-8c52-4a5b-a68a-bc379d40e944</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-14']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e8bd7254-b4d4-49c9-a184-f96b6c4c55a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-14</value>
+      <webElementGuid>eeadaa1a-dd1d-4f91-8145-8a299289c454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Onedrive basic flow</value>
+      <webElementGuid>19aa5ffd-e805-427f-84a8-918dc3647d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-14&quot;)</value>
+      <webElementGuid>b39e566e-b6fd-441c-b8ab-466485cd47e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-14']</value>
+      <webElementGuid>52f6adac-610e-4329-903e-8641d2411400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-14']/a</value>
+      <webElementGuid>ad4ef1c6-e24d-411c-8a41-f1037825065e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Onedrive basic flow')]</value>
+      <webElementGuid>429cbaf8-0f05-4cd7-975e-98ba409392ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[5]/following::a[1]</value>
+      <webElementGuid>d7487f10-b5f4-4332-9cab-b6ce1f3969ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[6]/preceding::a[1]</value>
+      <webElementGuid>a2799b2f-8878-441f-93f8-8ceb471b68db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Onedrive basic flow']/parent::*</value>
+      <webElementGuid>a05ad9d2-871f-4749-bdbd-5246bd4b3c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[15]/td/div/div/a</value>
+      <webElementGuid>8c161e3a-e830-4004-864a-a9ed2a41547d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-14' and (text() = 'Onedrive basic flow' or . = 'Onedrive basic flow')]</value>
+      <webElementGuid>931873d1-5bc1-4f91-becf-8d7a281aec12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

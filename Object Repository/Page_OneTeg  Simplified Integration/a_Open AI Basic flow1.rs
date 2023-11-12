@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Open AI Basic flow1</name>
+   <tag></tag>
+   <elementGuidId>4adf4169-393e-4c4d-9e88-5613c86e160c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-9']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>57a8b7fd-b591-4866-a81f-b0c038a71774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-9</value>
+      <webElementGuid>b4d93bcc-f64b-401a-b10f-7b46e55472fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open AI Basic flow1</value>
+      <webElementGuid>ccd6a4fc-3591-4a25-97ad-f7b45af0c683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-9&quot;)</value>
+      <webElementGuid>982cd9c5-43d9-4a8c-a33f-73412c408ac2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-9']</value>
+      <webElementGuid>9cd5145a-d0f5-49c0-bc82-f7bd7d129668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-9']/a</value>
+      <webElementGuid>0cc77df2-6f73-4618-a80a-7dbf3f6892b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Open AI Basic flow1')]</value>
+      <webElementGuid>af2f3473-6da0-4a3e-aeb8-2eaf5f801c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2'])[2]/following::a[1]</value>
+      <webElementGuid>a50d2562-ac14-46c1-82cc-2e8699be78a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2'])[3]/preceding::a[1]</value>
+      <webElementGuid>e017ddd2-2f48-4bc5-a56d-adf1620b3892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open AI Basic flow1']/parent::*</value>
+      <webElementGuid>7009f979-9f4f-4477-9e8e-7693de7aecac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td/div/div/a</value>
+      <webElementGuid>7f0e151b-fb3a-47b4-b149-abb418086c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-9' and (text() = 'Open AI Basic flow1' or . = 'Open AI Basic flow1')]</value>
+      <webElementGuid>13ca24a6-ab23-42be-b52e-95ccbcff1222</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

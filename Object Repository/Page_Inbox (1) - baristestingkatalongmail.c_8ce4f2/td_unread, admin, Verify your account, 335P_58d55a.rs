@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_unread, admin, Verify your account, 335P_58d55a</name>
+   <tag></tag>
+   <elementGuidId>5f3addd4-ae48-4c75-8198-668800a355b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id=':24']/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9d1a8160-c67c-4095-8c9d-8e97f628d026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yX xY </value>
+      <webElementGuid>8ebc318e-6816-4235-897e-d27018f1135b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>e48c8ceb-dfdb-4908-bca1-379498e6c619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>a138784a-9a23-486e-b307-11890744d16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>unread, admin, Verify your account, 3:35 PM, Use this link to verify your account. OneTeg Hello Katalon Test Intern, Welcome to OneTeg! Please verify your email address and set your password to activate your account on app. Click the button below.admin</value>
+      <webElementGuid>a06b5596-b474-4cec-bec2-369b62535736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:24&quot;)/td[@class=&quot;yX xY&quot;]</value>
+      <webElementGuid>1686213c-02e8-4eca-acb3-80dd63442f1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id=':24']/td[4]</value>
+      <webElementGuid>83a6c9fd-ee20-4269-bbb3-759b548d8fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='inbox settings'])[1]/following::td[4]</value>
+      <webElementGuid>b63b30df-273a-4241-82e6-64d93406458b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Primary tab is empty.'])[1]/following::td[4]</value>
+      <webElementGuid>4e371890-08a8-4660-bfbe-c083a057c074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>70250491-4012-4bb6-a671-bf382f51e524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'unread, admin, Verify your account, 3:35 PM, Use this link to verify your account. OneTeg Hello Katalon Test Intern, Welcome to OneTeg! Please verify your email address and set your password to activate your account on app. Click the button below.admin' or . = 'unread, admin, Verify your account, 3:35 PM, Use this link to verify your account. OneTeg Hello Katalon Test Intern, Welcome to OneTeg! Please verify your email address and set your password to activate your account on app. Click the button below.admin')]</value>
+      <webElementGuid>18dfd163-db93-4272-8cbf-4e160c083f85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

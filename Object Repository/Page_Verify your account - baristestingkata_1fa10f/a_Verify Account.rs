@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Verify Account</name>
+   <tag></tag>
+   <elementGuidId>8b8961fb-48af-470d-8699-64b1e404408f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.m_-6172103572916706298button.m_-6172103572916706298button--purple</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;:6d&quot;)/div[1]/table[@class=&quot;m_-6172103572916706298email-wrapper&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;m_-6172103572916706298email-content&quot;]/tbody[1]/tr[2]/td[@class=&quot;m_-6172103572916706298email-body&quot;]/table[@class=&quot;m_-6172103572916706298email-body_inner&quot;]/tbody[1]/tr[1]/td[@class=&quot;m_-6172103572916706298content-cell&quot;]/div[1]/table[@class=&quot;m_-6172103572916706298body-action&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/a[@class=&quot;m_-6172103572916706298button m_-6172103572916706298button--purple&quot;][count(. | //a[@href = 'https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859' and @class = 'm_-6172103572916706298button m_-6172103572916706298button--purple' and @target = '_blank' and @data-saferedirecturl = 'https://www.google.com/url?q=https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859&amp;source=gmail&amp;ust=1690893441876000&amp;usg=AOvVaw0f0Fo1gG4scIObJtzLdWVy' and (text() = 'Verify Account' or . = 'Verify Account')]) = count(//a[@href = 'https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859' and @class = 'm_-6172103572916706298button m_-6172103572916706298button--purple' and @target = '_blank' and @data-saferedirecturl = 'https://www.google.com/url?q=https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859&amp;source=gmail&amp;ust=1690893441876000&amp;usg=AOvVaw0f0Fo1gG4scIObJtzLdWVy' and (text() = 'Verify Account' or . = 'Verify Account')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':6d']/div/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td/div/table/tbody/tr/td/table/tbody/tr/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0baca35c-908b-409d-ad99-373a729ca9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859</value>
+      <webElementGuid>b182b20a-49c9-47e6-93dd-7065ed296a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m_-6172103572916706298button m_-6172103572916706298button--purple</value>
+      <webElementGuid>3eeb20de-86d0-44b9-a430-3f19baa92028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>200a73cf-bfde-47ef-9dcd-e1bb55d6b83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-saferedirecturl</name>
+      <type>Main</type>
+      <value>https://www.google.com/url?q=https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859&amp;source=gmail&amp;ust=1690893441876000&amp;usg=AOvVaw0f0Fo1gG4scIObJtzLdWVy</value>
+      <webElementGuid>54b9122a-e598-4666-8d8b-97aa119e2bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify Account</value>
+      <webElementGuid>ad0c2062-48b5-42c7-98db-fa55ea493c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:6d&quot;)/div[1]/table[@class=&quot;m_-6172103572916706298email-wrapper&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;m_-6172103572916706298email-content&quot;]/tbody[1]/tr[2]/td[@class=&quot;m_-6172103572916706298email-body&quot;]/table[@class=&quot;m_-6172103572916706298email-body_inner&quot;]/tbody[1]/tr[1]/td[@class=&quot;m_-6172103572916706298content-cell&quot;]/div[1]/table[@class=&quot;m_-6172103572916706298body-action&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/a[@class=&quot;m_-6172103572916706298button m_-6172103572916706298button--purple&quot;]</value>
+      <webElementGuid>7128a389-5e67-4079-b5f9-2648d4a0ed47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':6d']/div/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td/div/table/tbody/tr/td/table/tbody/tr/td/a</value>
+      <webElementGuid>fa9eb9f2-f2cb-4442-a56c-98a7cf5b919f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Verify Account')]</value>
+      <webElementGuid>aeb8fef8-0386-4bb6-b0b2-7f009b1c1296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use this link to verify your account.'])[1]/following::a[2]</value>
+      <webElementGuid>b830ac13-47c7-4aa5-86f7-9d5e1957adeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='me'])[1]/following::a[2]</value>
+      <webElementGuid>50e5fe49-0661-4b50-bbfe-b9eda8cb8efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OneTeg Team'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ae31bff-58fd-496b-94b4-ae8a858e8d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859'])[1]/preceding::a[1]</value>
+      <webElementGuid>4648a86a-1dd5-45a4-922c-49f90770dfcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verify Account']/parent::*</value>
+      <webElementGuid>636a2cb3-ad78-4eb0-9d6b-a8d204184c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859')]</value>
+      <webElementGuid>8267657b-16bd-407c-94e8-ae7030312020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/table/tbody/tr/td/table/tbody/tr/td/a</value>
+      <webElementGuid>13e146d0-9704-432d-823d-c59395d0c1b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.qa.oneteg.com/en/new-password/914e8686-c333-449f-ab3d-e0c4a6bd8859' and (text() = 'Verify Account' or . = 'Verify Account')]</value>
+      <webElementGuid>cbc4e270-f268-4a6a-8fe5-e39b4fc013af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

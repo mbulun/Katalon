@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Akeneo Connection_testing_intern</name>
+   <tag></tag>
+   <elementGuidId>ec3f2258-9af2-45f4-9a7d-8e8c4b094df7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='flow-connection-option-8']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flow-connection-option-8 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>edf0ac7d-c29d-4f66-a3a2-ae6b0f95e867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Akeneo Connection_testing_intern</value>
+      <webElementGuid>4d66a70e-7fb4-42b8-b411-440a1e475076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flow-connection-option-8&quot;)/span[1]</value>
+      <webElementGuid>0e51ee88-5516-4ebf-b851-da1ae141906e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='flow-connection-option-8']/span</value>
+      <webElementGuid>46eb9bc0-2933-45d4-84d2-3a6d51e78c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[9]/span</value>
+      <webElementGuid>7a9e1025-56c0-4a3b-8f36-6e5d94b70135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Akeneo Connection_testing_intern' or . = ' Akeneo Connection_testing_intern')]</value>
+      <webElementGuid>9550f8a8-f3dd-40bb-aa89-4a2eea78d883</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

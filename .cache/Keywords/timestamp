@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "C710B078D3BE40AA3573F98DDFD67E7F",
+  "keywordClasses": [
+    {
+      "name": "timestamp",
+      "keywordMethods": []
+    },
+    {
+      "name": "timestamp$MyCustomKeyword",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

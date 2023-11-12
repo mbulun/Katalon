@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_4Allportal Hospital Katalon Test</name>
+   <tag></tag>
+   <elementGuidId>ab170035-7c38-445f-ae98-5f0fcb3f489f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#name-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='name-0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>682e4d2d-c219-4ff1-8f4a-628de0e73549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-0</value>
+      <webElementGuid>c0c1578a-0639-42cf-a1d7-620a5bae683e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4Allportal Hospital Katalon Test</value>
+      <webElementGuid>b2901583-760a-4cc1-9187-62d0829759d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-0&quot;)</value>
+      <webElementGuid>7d1ea8bd-ea88-469b-9f14-d1a59cfca644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='name-0']</value>
+      <webElementGuid>12ff2c9e-9518-4994-930a-4376b288414d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show-connections']/div/div/div/div[3]/table/tbody/tr/td/div/div</value>
+      <webElementGuid>a8b6b443-70f7-4a00-be0b-51aeaec092ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::div[7]</value>
+      <webElementGuid>694df530-3255-479d-b73c-82dd4ef58be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connector'])[1]/following::div[8]</value>
+      <webElementGuid>e0c8f7ef-38c3-4075-a56b-e28f0805ebd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otmm Monster dev'])[1]/preceding::div[10]</value>
+      <webElementGuid>390e1090-4055-486f-9953-4839803af3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropbox Connection_test_intern (DO NOT DELETE)'])[1]/preceding::div[21]</value>
+      <webElementGuid>a8b36a11-678a-46e2-8b0b-919a80d03a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div</value>
+      <webElementGuid>d2078576-b84e-4260-b2a0-d828836fb8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'name-0' and (text() = '4Allportal Hospital Katalon Test' or . = '4Allportal Hospital Katalon Test')]</value>
+      <webElementGuid>654e9820-4b1b-440c-a8ae-14e67d1444bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

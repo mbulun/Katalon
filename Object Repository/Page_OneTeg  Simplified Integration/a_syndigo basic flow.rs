@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_syndigo basic flow</name>
+   <tag></tag>
+   <elementGuidId>a37d6583-899c-4c6c-be3a-85a6bd8be9f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-23']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-23</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3faf5a5c-36d7-4cdf-8f73-4f62808c5285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-23</value>
+      <webElementGuid>24366daa-4c45-481b-86ac-403f4faf5c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>syndigo basic flow</value>
+      <webElementGuid>02eb074d-b931-48b8-96f8-c6b0a493bf55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-23&quot;)</value>
+      <webElementGuid>96186cd7-498f-4911-804f-f5b72102ed90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-23']</value>
+      <webElementGuid>bff0e846-a7c3-4723-8488-3ed19cdda674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-23']/a</value>
+      <webElementGuid>2d5b5058-766d-44f3-9c94-f0ea6097758e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'syndigo basic flow')]</value>
+      <webElementGuid>6fef0e14-a1ee-4c50-95a8-1e1d3fa379b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v47'])[1]/following::a[1]</value>
+      <webElementGuid>0bdba445-1852-427c-ab74-affb9bc84898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[10]/preceding::a[1]</value>
+      <webElementGuid>e601b947-8c08-449a-8d8f-f14a2147ec2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='syndigo basic flow']/parent::*</value>
+      <webElementGuid>3f3713dd-dbfb-48eb-8bb6-04aab4139e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[24]/td/div/div/a</value>
+      <webElementGuid>b7c0cbac-b89b-48dc-b5dd-a9246b10f3c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-23' and (text() = 'syndigo basic flow' or . = 'syndigo basic flow')]</value>
+      <webElementGuid>3f9f1564-5fb7-4b3c-86ed-c1d264f48472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

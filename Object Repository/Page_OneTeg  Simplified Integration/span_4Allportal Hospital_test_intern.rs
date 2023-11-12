@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_4Allportal Hospital_test_intern</name>
+   <tag></tag>
+   <elementGuidId>b051f3f7-ffca-4336-9535-2b9e027e65a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='flow-connection-option-2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flow-connection-option-2 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f527b7d-8d7b-4d43-9adb-83bf2be37f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 4Allportal Hospital_test_intern</value>
+      <webElementGuid>8b30ef47-175f-43f7-a1be-3fa838b32363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flow-connection-option-2&quot;)/span[1]</value>
+      <webElementGuid>d2905777-3864-4e63-b23d-852f7e4665ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='flow-connection-option-2']/span</value>
+      <webElementGuid>fd5f16e8-c5da-40bd-9c83-e9001d44cedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Core'])[1]/following::span[3]</value>
+      <webElementGuid>9369d963-7920-463f-b08a-8a8fa6112bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[3]/span</value>
+      <webElementGuid>a99d1edd-e061-4968-81df-0035bb2490bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 4Allportal Hospital_test_intern' or . = ' 4Allportal Hospital_test_intern')]</value>
+      <webElementGuid>1b1f30de-4369-4295-8862-f456202d4103</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

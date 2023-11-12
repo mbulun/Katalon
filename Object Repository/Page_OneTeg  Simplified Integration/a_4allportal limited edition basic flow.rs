@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_4allportal limited edition basic flow</name>
+   <tag></tag>
+   <elementGuidId>97752fb9-f6be-4f88-aacb-5274e6100bd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-21']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-21</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>43b245b1-1bfc-4372-810e-b1111d5f2bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-21</value>
+      <webElementGuid>3ecb81c9-0d93-4595-99d1-86e930abbe2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4allportal limited edition basic flow</value>
+      <webElementGuid>6694ba56-e045-4652-8f64-9fa8e262407b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-21&quot;)</value>
+      <webElementGuid>7b0cfcf1-01c2-42ca-9607-009d44ddd7be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-21']</value>
+      <webElementGuid>3313d06e-3af8-4046-a4c8-943133f14a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-21']/a</value>
+      <webElementGuid>7c199071-5456-4bc0-8ab9-f1f2c01840c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'4allportal limited edition basic flow')]</value>
+      <webElementGuid>762b8669-dc01-412f-b3b7-d154634490c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v3'])[2]/following::a[1]</value>
+      <webElementGuid>cc3cb783-50d0-4c92-9f13-eac5e444b45e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v3'])[3]/preceding::a[1]</value>
+      <webElementGuid>6b5151d6-6fa2-40f2-9a15-1c311ca39d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4allportal limited edition basic flow']/parent::*</value>
+      <webElementGuid>9fb4f587-5eaf-4cab-a1b0-b6eb484186dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[22]/td/div/div/a</value>
+      <webElementGuid>b66e77c8-a7f9-43a7-9e22-bd8a300d9d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-21' and (text() = '4allportal limited edition basic flow' or . = '4allportal limited edition basic flow')]</value>
+      <webElementGuid>aad19d35-37a1-46c1-ae47-bf4c0410c394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

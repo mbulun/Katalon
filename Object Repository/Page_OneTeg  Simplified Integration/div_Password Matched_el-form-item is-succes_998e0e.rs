@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password Matched_el-form-item is-succes_998e0e</name>
+   <tag></tag>
+   <elementGuidId>a361d404-2f39-4ea5-a9a4-aa5423cbab4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-form-item.is-success.is-required.d-flex.flex-column.align-items-center.justify-content-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53ef3d10-848b-4b20-a913-d3d7ddaee5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-form-item is-success is-required d-flex flex-column align-items-center justify-content-center</value>
+      <webElementGuid>b8d9558a-c4a6-44e4-a78d-5df1cbd40629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>status-icon</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5565e643-1712-43aa-9c77-fac21d48ca38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;newPassword&quot;]/div[@class=&quot;d-flex justify-content-center align-items-right flex-column&quot;]/div[@class=&quot;col-10 loginpage&quot;]/form[@class=&quot;el-form margin&quot;]/div[@class=&quot;el-form-item is-success is-required d-flex flex-column align-items-center justify-content-center&quot;]</value>
+      <webElementGuid>cc474624-96d9-451f-9ced-847e7236520b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/form/div</value>
+      <webElementGuid>e4ee8668-fad5-4fe9-84f9-f44c0c92fbb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Matched'])[1]/preceding::div[8]</value>
+      <webElementGuid>c8505b2f-9971-4b27-81db-eba3e3977f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Login'])[1]/preceding::div[9]</value>
+      <webElementGuid>ed2b0578-930f-4732-8660-697b12685bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>4f1f49d8-9116-42c2-a0b6-8f3c5ce403e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

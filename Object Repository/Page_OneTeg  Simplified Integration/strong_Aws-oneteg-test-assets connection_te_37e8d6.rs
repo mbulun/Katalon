@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Aws-oneteg-test-assets connection_te_37e8d6</name>
+   <tag></tag>
+   <elementGuidId>2a7466bb-e788-4f3d-b4f5-d4e7a314563e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong[@id='name-label0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>edfdfc5d-787a-4178-9123-93d795a36b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label0</value>
+      <webElementGuid>60091a44-7605-4d35-af95-7cc5641f28ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aws-oneteg-test-assets connection_test_intern</value>
+      <webElementGuid>7078d546-dba8-4b70-9d4e-61392d9f6716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label0&quot;)</value>
+      <webElementGuid>bf07c289-2c2a-4e20-b192-f4d74d8f2fe2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//strong[@id='name-label0']</value>
+      <webElementGuid>4ff13f58-2101-46da-8b0d-1ab34ae4d1e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-0']/strong</value>
+      <webElementGuid>0f70e44a-459c-4c4e-bfa3-8e4f42251e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::strong[1]</value>
+      <webElementGuid>d5835215-5d65-4ff8-a22d-d404f4e53669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connector'])[1]/following::strong[1]</value>
+      <webElementGuid>3d9938a9-8269-4cf2-a5ef-2b46535c7091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AWS public URL'])[1]/preceding::strong[1]</value>
+      <webElementGuid>59f29369-219a-4c1a-9a49-bb7e3251fb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aws-oneteg-test-assets connection_test_intern']/parent::*</value>
+      <webElementGuid>4708a7b8-aab4-42e9-8603-e713c243f158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>37f9cb45-abd2-4eee-9392-127e234ad12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[@id = 'name-label0' and (text() = 'Aws-oneteg-test-assets connection_test_intern' or . = 'Aws-oneteg-test-assets connection_test_intern')]</value>
+      <webElementGuid>cc55189b-69cd-45d2-aad5-811759016e84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

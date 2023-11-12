@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bria Basic Flow</name>
+   <tag></tag>
+   <elementGuidId>c00c8765-3476-49bb-b9d5-bbe960818776</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='name-label-20']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'name-label-20' and (text() = 'Bria Basic Flow' or . = 'Bria Basic Flow')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-label-20</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>561ddb16-d349-4801-b526-0d008b30e95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-label-20</value>
+      <webElementGuid>bc9e66a3-48d1-403c-901d-5fa752c64c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bria Basic Flow</value>
+      <webElementGuid>46ae9d8f-d1d5-481b-98a7-8f1b6d7efdad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-label-20&quot;)</value>
+      <webElementGuid>4f9ab7c0-7d42-43ee-ab53-c4650a363d19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='name-label-20']</value>
+      <webElementGuid>f2bb5425-69b4-4300-843c-24bf2279f7a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-20']/a</value>
+      <webElementGuid>5aa9d903-c9d2-47ec-84bc-6af2ab731fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bria Basic Flow')]</value>
+      <webElementGuid>a6412dcf-1513-4faa-b77b-f11de5ff0942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v3'])[5]/following::a[1]</value>
+      <webElementGuid>735d0ef4-1501-4ff6-a5b4-40ba6598d3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2'])[5]/preceding::a[1]</value>
+      <webElementGuid>9bfc1770-00f6-4eb7-bec8-67a5aec2a0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bria Basic Flow']/parent::*</value>
+      <webElementGuid>f421b19c-ee52-4d95-b631-ca1b7bbf3b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[21]/td/div/div/a</value>
+      <webElementGuid>2197a2bc-78ab-4ac1-aec1-0e464b87ee57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'name-label-20' and (text() = 'Bria Basic Flow' or . = 'Bria Basic Flow')]</value>
+      <webElementGuid>ccd67eb2-c2dc-487a-87c2-d6c2fe5f5bde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

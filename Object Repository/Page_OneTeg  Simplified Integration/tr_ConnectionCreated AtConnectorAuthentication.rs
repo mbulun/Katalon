@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_ConnectionCreated AtConnectorAuthentication</name>
+   <tag></tag>
+   <elementGuidId>5ea9de74-5015-4087-b743-95c4a77ff2d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>b74b2f33-57bc-4a92-bb46-00b5cbb138e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ConnectionCreated AtConnectorAuthentication</value>
+      <webElementGuid>7f93a9d7-db87-42ce-8bbf-4d65a151b4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show-connections&quot;)/div[@class=&quot;el-card is-always-shadow card border-0&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-table--fit el-table--enable-row-hover el-table&quot;]/div[@class=&quot;el-table__header-wrapper&quot;]/table[@class=&quot;el-table__header&quot;]/thead[@class=&quot;has-gutter&quot;]/tr[1]</value>
+      <webElementGuid>51c986d8-9c2f-42ac-9042-09774a0fd97e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show-connections']/div/div/div/div[2]/table/thead/tr</value>
+      <webElementGuid>dd951915-9e28-42c2-af16-cf32d625f555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='version 0.2.1'])[1]/following::tr[1]</value>
+      <webElementGuid>1250fe8a-6bcc-4ad0-afb0-d0918f9c6fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr</value>
+      <webElementGuid>86bef135-2d7a-4fb3-bc0f-8997137139b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = 'ConnectionCreated AtConnectorAuthentication' or . = 'ConnectionCreated AtConnectorAuthentication')]</value>
+      <webElementGuid>4ced0adf-a436-461c-a8e8-cb7e57a0992b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

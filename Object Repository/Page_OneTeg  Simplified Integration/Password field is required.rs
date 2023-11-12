@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Password field is required</name>
+   <tag></tag>
+   <elementGuidId>ff3702a6-58f1-4c9d-853c-1a1f3e694a0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/form/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f14821ee-a108-4618-aa02-bc42b922db8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-form-item__error</value>
+      <webElementGuid>d417253a-2c1f-48c5-921d-188059d5a14d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password field is required.</value>
+      <webElementGuid>33b25309-7006-4d87-9a7e-1efdc75fb0d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center flex-column&quot;]/div[@class=&quot;login-page&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center login-page&quot;]/form[@class=&quot;el-form margin margin-left&quot;]/div[@class=&quot;el-form-item is-error d-flex flex-column align-items-center justify-content-center&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;el-form-item__error&quot;]</value>
+      <webElementGuid>19014efa-0a92-4563-b7ca-2d74aaa0f924</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/form/div[2]/div/div[2]</value>
+      <webElementGuid>74b01ba6-7939-46c5-a456-11916839e3c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[3]</value>
+      <webElementGuid>76cd0462-c79d-47bc-90dc-93585d307659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid email address'])[1]/following::div[5]</value>
+      <webElementGuid>807bf0c2-e8d8-415c-8746-334a10c8fc0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::div[1]</value>
+      <webElementGuid>30e5f250-9a93-4abf-a226-d289a2ede533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/preceding::div[7]</value>
+      <webElementGuid>af907ee9-cfb9-4a6f-8bef-ee899686a3ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password field is required.']/parent::*</value>
+      <webElementGuid>950b7df2-972f-40fd-8af9-d6f6cb17a802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>fb5566db-d2b2-4859-a924-a56e52b27497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password field is required.' or . = 'Password field is required.')]</value>
+      <webElementGuid>70ed08e5-450b-455b-bcd6-d03a58737653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
